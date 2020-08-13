@@ -10,7 +10,7 @@ import time
 from uch_speedrun_utils import *
 
 FPS = 120
-run = Speedrun(fps=FPS)
+run = Speedrun(fps=FPS, width=0.95)
 
 # Start the run
 run.press_and_release(JUMP, duration=0)
@@ -74,46 +74,32 @@ run.release(JUMP)
 run.increment_frames(22)
 run.press_and_release(JUMP, 50)
 
-# Do a small jump
-run.increment_frames(116)
-run.press_and_release(JUMP, 14)
-run.increment_frames(60)
-run.press_and_release(JUMP, 50)
+# Run, the full jump precisely to setup a corner jump.
+run.increment_frames(117)
+run.press_and_release(JUMP, 60)
 
-# Buffered quick jump
-run.increment_frames(50)
+run.increment_frames(61)
+run.press(JUMP)
+run.increment_frames(70)
 run.release(JUMP)
-run.increment_frames(4)
-run.release(SPRINT)
-run.press_and_release(JUMP, 24)
-run.increment_frames(3)
-run.press(SPRINT)
-run.increment_frames(10)
-run.release(SPRINT)
-run.increment_frames(2)
-run.press(SPRINT)
 run.increment_frames(19)
 run.release(LEFT)
-run.increment_frames(2)
 run.press(RIGHT)
 
-
-# ALMOST THERE
-# wait to finish landing
-run.increment_frames(38)
+# Slide off, big jump
+run.increment_frames(19)
 run.press_and_release(JUMP, 50)
-# BIG JUMP + QUICK
 run.increment_frames(80)
 run.release(SPRINT)
-run.increment_frames(2)
-run.press_and_release(JUMP, 20)
+run.increment_frames(4)
+run.press_and_release(JUMP, 24)
 run.increment_frames(4)
 run.press(SPRINT)
 run.increment_frames(24)
 
 # land, then wide jump
 run.increment_frames(47)
-run.press_and_release(JUMP, 39)
+run.press_and_release(JUMP, 40)
 run.increment_frames(1)
 run.release(RIGHT)
 run.increment_frames(1)
@@ -139,19 +125,15 @@ run.press_and_release(JUMP, 50)
 run.increment_frames(80)
 run.press(JUMP)
 
-
 # Clear everything
-run.increment_frames(FPS * 2)
+run.increment_frames(FPS)
 run.release(SPRINT)
 run.release(RIGHT)
 run.release(LEFT)
 run.release(UP)
 run.release(DOWN)
 run.release(JUMP)
-run.increment_frames(1)
-run.press_and_release(RIGHT, duration=1)
-run.increment_frames(1)
-run.press_and_release(RETRY, duration=FPS * 2 + 20)
+# run.press_and_release(RETRY, 100)
 
 run.play(speed=1)
 run.save("chameleon_cage_2.json")

@@ -7,7 +7,8 @@ from keyboard._keyboard_event import KeyboardEvent
 
 # Scan code mapping for keys.
 JUMP = 57 # Spacebar
-SPRINT = 39 # Semicolon
+SPRINT = 42 # Shift
+# SPRINT = 39 # Semicolon
 UP = 17 # w
 LEFT = 30 # a
 DOWN = 32 # s
@@ -17,6 +18,7 @@ RETRY = 48 # b
 NAMES = {
   57: "space",
   39: ";",
+  42: "shift",
   17: "w",
   30: "a",
   32: "s",
@@ -30,11 +32,10 @@ KEY_UP = "up"
 
 class Speedrun:
 
-  def __init__(self, fps=60, width=0.5):
+  def __init__(self, fps=60, width=0.5, slices=3):
     self.fps = fps
     self.per_frame = 1 / fps
-    self.width_adjust = self.per_frame * width
-    self.half_width = self.width_adjust / 2
+    self.width_adjust = [i * self.per_frame * width / slices for i in range(slices + 1)]
     self.frame = 0
     self.events = []
     return
@@ -44,14 +45,12 @@ class Speedrun:
     self.frame += increment
 
   def press(self, code, time=None):
-    self.events.append(KeyboardEvent(KEY_DOWN, code, name=NAMES[code], time=time or self.frame * self.per_frame))
-    self.events.append(KeyboardEvent(KEY_DOWN, code, name=NAMES[code], time=(time or self.frame * self.per_frame) + self.half_width))
-    self.events.append(KeyboardEvent(KEY_DOWN, code, name=NAMES[code], time=(time or self.frame * self.per_frame) + self.width_adjust))
+    for adjust in self.width_adjust:
+      self.events.append(KeyboardEvent(KEY_DOWN, code, name=NAMES[code], time=(time or self.frame * self.per_frame) + adjust))
 
   def release(self, code, time=None):
-    self.events.append(KeyboardEvent(KEY_UP, code, name=NAMES[code], time=time or self.frame * self.per_frame))
-    self.events.append(KeyboardEvent(KEY_UP, code, name=NAMES[code], time=(time or self.frame * self.per_frame) + self.half_width))
-    self.events.append(KeyboardEvent(KEY_UP, code, name=NAMES[code], time=(time or self.frame * self.per_frame) + self.width_adjust))
+    for adjust in self.width_adjust:
+      self.events.append(KeyboardEvent(KEY_UP, code, name=NAMES[code], time=(time or self.frame * self.per_frame) + adjust))
 
   def press_and_release(self, code, duration=0):
     """Creates a 'held key' event.
