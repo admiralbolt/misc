@@ -1,0 +1,471 @@
+Date,Address,Email,Sku#,Name,Amount,Invoice Id,Phone Number,Total Cost
+09/08/2016,"56351 Timothy Fall Suite 001 Garrisonburgh, TX 53993",alexander03@clark.biz,SKU#e62da29ac3a82185101eb38cb426322a,Donald Jacobson,8,IID#d0d480a12b0d02f3ce2b75baf4e93ac1,474-937-4984,1175.76
+09/08/2016,"Unit 5646 Box 6698 DPO AA 96285",bmann@gmail.com,SKU#0812baf5bd7cbc7b149e49c8611d9046,Justin Parker,12,IID#cd65a63a21ac4984a34444b917d07c32,452-861-8782,817.3199999999999
+09/16/2016,"09913 Hansen Islands Suite 909 South James, WY 32221",austinalexandria@gmail.com,SKU#c3cb46f9be79146ac74261975eedc107,Mary Craig,7,IID#f33cd866d5badae586a3926c108b0b5e,468-680-7116,882.2800000000001
+09/16/2016,"95538 Thomas Track Bishopbury, VA 17142",hessdavid@rivera-wheeler.com,SKU#5f54d1240735d46980b776af554f44d3,Henry Anderson,19,IID#ee3b8d80e2ace158153abdaf3b640580,444-580-4654,2161.44
+09/21/2016,"09069 Mann Fort Reedbury, CO 89271",fparsons@hotmail.com,SKU#5360b12f6a07af7be93437d215f72fca,Emily Jackson,13,IID#0f918dd5af389c04e87e5664035ad7dd,717-621-0457,1040.9099999999999
+09/24/2016,"87792 Hernandez Pine South Christopherview, NM 93532",iwade@ray.com,SKU#348cf1fcc695c82009f0b906c2d8fdff,Matthew Reese,13,IID#e68aea59ccd06c29e0cc3767f5bc4434,939-806-8768,986.7
+09/26/2016,"9376 Mueller Village Apt. 974 Latoyamouth, MT 24995",natalielynch@smith.net,SKU#a3f07671642038caece41ff2a52d8673,Charles Harris,22,IID#19fd86e52187f7538da14aa111cd4e69,441-513-6295,2096.16
+09/27/2016,"8751 Ramirez Glens Sheltonshire, MA 69044",jacqueline14@hotmail.com,SKU#f448a877f3d3f4b40a15fca17c62a2b5,Richard Hughes,16,IID#7aee5ebcc777a65a62315be9da7545b5,376-435-5578,1572.32
+10/04/2016,"26533 Paul Stravenue South Juliehaven, OR 24174",williamsvincent@yahoo.com,SKU#7a092925340c3faec22d7576a4eb7c5f,Joshua Bowen,13,IID#312a44b0bc7c4a25d27b2ffa410e57e8,964-949-4300,733.3299999999999
+10/05/2016,"50983 Cruz Alley Apt. 398 Hunterfurt, KS 67098",rwest@yahoo.com,SKU#c5b7a97bda04c48435a145f2d1f9bb42,Mark Perez,17,IID#cd189d14d27eb6098eb68d9322c3680d,355-232-2659,1226.21
+10/05/2016,"872 Richard Divide Johnsonborough, SC 73096",bsanders@beard.info,SKU#6df206f493cd799de3658973c3770b29,Daniel Mckee,11,IID#d12e8ad8a92bd5cbe43fdeeed26947e9,638-052-7086,1554.1899999999998
+10/05/2016,"98415 Gabriella Port Apt. 408 Caseymouth, IN 89807",ibrown@gmail.com,SKU#f66bbd2e5ab92eb20b68e23e0e7e2865,Sydney Allen,16,IID#14218839799eeb5921a3329b12ee4ac5,733-866-5944,2004.0
+10/06/2016,"021 Monroe Plain Suite 058 Larryton, HI 48480",watsoncody@hotmail.com,SKU#228b6e96ea75ec9b2f5c22bb75980eb1,Don Thompson,12,IID#fd8473da278ded6372a26bcee02ab0ea,612-039-7219,1816.1999999999998
+10/11/2016,"9763 Hendricks Mill Apt. 080 South Alisonmouth, KY 98455",bellchristopher@yahoo.com,SKU#18449c1cf0be942485227a9a3007ae3f,Thomas Potter,14,IID#39fc38ff025b282f2477be955c312c16,048-592-4290,921.0600000000001
+10/12/2016,"633 Nicole Row Apt. 459 Nelsonfurt, WA 46332",mark67@hotmail.com,SKU#c509359f498aa0d1f98b7c29ca3c9bfe,Gregory Davis,9,IID#3e4b873cdd85e3890f7a2154a864d9c1,389-679-2962,894.6
+10/22/2016,"569 Gina Well Suite 413 Audreyfort, WY 74931",susansimpson@willis-thompson.info,SKU#de94cf49f2a617bd1f0740b33ad6869f,Jeremy Padilla,13,IID#7d441081bed828c56629e1fa9da07bf9,284-790-5543,1984.06
+11/09/2016,"7048 Harris Avenue Port Alexandermouth, AZ 20553",fordjesse@yahoo.com,SKU#ebe28db082660b55fb94f6121a65fe65,Sarah Gomez,17,IID#f5f4c873cb77aced11f45a96bc06882f,966-317-1059,1714.28
+11/15/2016,"1074 Simon Shoals Suite 252 Brookestad, FL 55091",michaelchapman@gmail.com,SKU#a27770954f1e6caf5875ab6ea6c4bfb5,Helen James,18,IID#e2c67698cd634932695bd9ed8489d50f,829-499-6831,1878.48
+11/20/2016,"19346 Rachael Grove Apt. 209 Walkerport, WI 94574",freemanrodney@yahoo.com,SKU#a396c59a96af3b36d364448c7b687fb1,Kristin Walker,14,IID#bbf5b251a48ef43d3a16a41325653b3b,036-457-8420,1988.1399999999999
+11/20/2016,"4695 Jones Summit Heatherburgh, KS 88272",kaylarobinson@gmail.com,SKU#f38f0b959cdd64bbbc5d73c2c24fddcf,Kimberly Christensen,23,IID#b25034bfd785ce82437a4f34976e59c0,250-313-7928,2494.35
+11/25/2016,"632 Jennifer Radial Apt. 772 Stephanieshire, KS 39320",fclark@dominguez.info,SKU#be484ed22f5a1786c5423a0bb98a50ea,Robert Long,19,IID#b3ef5c2a21b97a55a2c1837ef6e21f3a,331-137-5622,1340.45
+11/30/2016,"65655 Kevin Fall Leonardport, NE 81239",miguel17@thomas-perry.com,SKU#81cfb9735fea15ca8791a3c34a78d992,Nicole Simpson,16,IID#1cdd94ebb122dd38f29fa013a1b9eded,637-912-4674,1365.28
+12/01/2016,"11255 Maria Trail Suite 328 Susanshire, CA 61855",christopher87@reed-frank.info,SKU#23a6fa3f18df1988cd13a8aba45d6e39,Anthony Henry,10,IID#d2ef7d3a6f1f69b82eabd49c94f78dd6,994-470-1338,744.0
+12/03/2016,"07044 Patrick Mall Victoriahaven, NM 42151",starkhannah@yahoo.com,SKU#6cda401703f598d55ddc38a27a0fea5d,Catherine Wade,22,IID#ca149663e279cfaa8e39313fdd2147bd,740-282-7271,1093.84
+12/03/2016,"98460 John Junctions Suite 174 Weberberg, ID 76518",fmedina@harper.net,SKU#c3664b673d90c603447db7c2d2bbc5e7,John Weaver,11,IID#50d0581a91a78e43cbfb2ac777bd1098,113-506-3515,967.7800000000001
+12/03/2016,"7985 Flores Mountains Suite 296 West Melindastad, PA 57088",ricenatasha@hotmail.com,SKU#cf419aec312cf4b6abaa849d67e31093,Melissa Moreno,19,IID#fda4154718d1aa8700aff1da3548d7ed,693-205-7507,665.1899999999999
+12/05/2016,"31942 Brian Walks Apt. 778 Howellmouth, MT 14107",michael24@perkins.com,SKU#f9aebae314ac2eadd56e1d9fa1d122f0,Reginald Baxter,10,IID#8be68ed6dc08999aa38c0f8ffa7e79bf,393-263-6401,1064.6
+12/08/2016,"36890 English Harbor East Christopher, MD 07349",rwallace@yahoo.com,SKU#6df206f493cd799de3658973c3770b29,David Skinner,17,IID#9461320beb18350584260b3b23e72830,961-511-0657,2401.93
+12/14/2016,"2247 Andrew Rapid Suite 675 North Ashleyview, MN 19167",cindysampson@hotmail.com,SKU#f448a877f3d3f4b40a15fca17c62a2b5,Kathleen Roach,18,IID#f0cccc6daefb65eba7ff1f6029aa546b,532-394-8124,1768.86
+12/15/2016,"32911 Eric Keys Jesusfurt, IL 03221",garcialisa@brown.com,SKU#1ae17d4009cce51ba79fbfebd9b8a513,John Johnson,7,IID#cb4f4ad188f885a676a86bbd977886da,811-841-1684,606.34
+12/17/2016,"42206 Desiree Springs South Frankfort, MT 17298",charlesbernard@peterson.com,SKU#df1692c9be09836b70cc7c40622d46db,Deanna Lewis,22,IID#c2305d919213e3caf40f780b937d3b71,730-215-7662,2939.6400000000003
+12/19/2016,"4873 Melissa Valley West Darryltown, ID 58989",amanda83@castillo-benitez.com,SKU#6ad4f71d2aa8b7cd6be9cda87d146b32,Pamela Carpenter,16,IID#b94b79b3c7ee488c3124f1bef6c6ff62,031-094-0083,1306.24
+12/21/2016,"87792 Hernandez Pine South Christopherview, NM 93532",iwade@ray.com,SKU#213e635dac590095b5681a944a5713a2,Matthew Reese,22,IID#81aae799789e6b550b3a68ebea642c2a,939-806-8768,2789.38
+12/22/2016,"051 Brianna Roads Suite 689 South Hannah, WV 48438",melissa86@hotmail.com,SKU#3135bf07e7aa0e72fbde14d0411ca6de,Jessica Oconnor,19,IID#e6e796f96a83b99782722714731dbfb2,515-613-9741,2831.9500000000003
+12/25/2016,"0341 Meyer Viaduct Apt. 474 Williamton, ID 64558",meganwright@jarvis-smith.com,SKU#81684c2e68ade2cd4bf9f2e8a67dd4fe,Terri Fowler,12,IID#7a8b4fae837718d72a0c450438af66bf,992-865-0815,963.0
+12/29/2016,"5572 Ricardo Rest Apt. 148 New Katrina, NM 87014",tonyarodriguez@yahoo.com,SKU#aea2fa668453e23c431649801e5ea548,Jamie Oliver,19,IID#79b7fd8e8dc7036a309f0f709899dd89,500-034-3989,1241.08
+01/01/2017,"396 Brandt Mill Apt. 481 Millerview, RI 25329",jamesbennett@stevenson-braun.com,SKU#3c2bfeac2ec39c652fad00241bdf552f,Valerie Henderson,20,IID#440961622ac571ad421385bb8188a6fa,873-212-5437,2302.6
+01/01/2017,"72552 Francisco Forge Cookberg, UT 62711",davidfowler@yahoo.com,SKU#6c4bbc2191b9fca407592ebc86567a12,Bradley Coffey,21,IID#fc3d773cd3e64561ddc042e12d436c4c,177-030-8009,1483.02
+01/06/2017,"348 Rachel Station Abigailside, NY 19233",josecruz@malone.com,SKU#b0b764a59edaf25c75cc6c1ffd6442a2,Debra Miller,7,IID#de884b5993656d2f61114a1cdaf37255,797-113-7307,515.13
+01/13/2017,"7322 Kennedy Light Morrisville, NV 70526",zmorales@hotmail.com,SKU#b9d0bbf41234c5021f8d5f280421c4b6,Mary Owen,11,IID#949bd68ece354f15d57449d8d38cfefd,965-394-4569,800.9100000000001
+01/15/2017,"591 Rodriguez Mountains Apt. 039 Christinebury, FL 62696",iingram@hotmail.com,SKU#b2d45371664bd3b4fc53b66ac0f34be1,Jordan Clark,12,IID#4da107a00c62f7c2bed5cba08b5510f0,258-810-7007,952.1999999999999
+01/18/2017,"392 Richmond Lake Apt. 050 Doylehaven, KS 32400",kingdon@smith.com,SKU#3045fd5bd59c01d8e5a91f514e8e9262,Jamie Williamson,12,IID#15afcc708155573566ca18e9a4b9356b,584-380-5736,1421.6399999999999
+01/21/2017,"9656 Campbell Forks Apt. 395 East Brianland, NY 96259",allisonbyrd@page-kidd.com,SKU#3135bf07e7aa0e72fbde14d0411ca6de,Sarah Johnson,12,IID#68507c6b9ac8f4a9d8be057999aa0fb7,484-864-3177,1788.6000000000001
+01/23/2017,"4625 Michelle Summit Scottland, MD 67051",marissa04@gmail.com,SKU#5a2f0a76a121bc07e0e2ec806a1d7536,Cindy Walker,15,IID#087e3e5b4a746649792469e1f72eb78f,264-092-0051,2029.65
+01/27/2017,"Unit 2003 Box 6956 DPO AP 00861",brookemiller@hotmail.com,SKU#1461a38b872613aa02dbc798423cce11,Carmen Vazquez,19,IID#ebeb17ae6c41eb746ec3de06625df093,134-794-1329,1058.3
+01/29/2017,"054 Thompson Lakes Parkerton, SD 04513",cynthia05@martin-jones.info,SKU#985f599bb4b81c01d5b5d16ad241d5ed,Leah Marshall,16,IID#c52742813e4f5ca750f9b42919ca0041,420-868-2499,952.16
+02/06/2017,"81612 Samantha Springs Thorntonport, MI 79102",grahamvalerie@gmail.com,SKU#f1084a10edd9af76c3e8ec16f8ac76f8,Christine Oconnor,18,IID#f7fef9b068b8e7cd6cc6fc088d58392a,949-803-2963,1002.0600000000001
+02/07/2017,"298 Kenneth Lodge Wesleyfurt, DC 53179",harristaylor@yahoo.com,SKU#905a0b9a5456ee962223033473666be3,Amber Morris,6,IID#49e6d1486094030337791a5e66b91167,290-203-2670,682.4399999999999
+02/12/2017,"USNV Rogers FPO AE 74033",lindsay83@yahoo.com,SKU#c0d8a756881481e5558415ec0158268f,Daniel Mcdonald,18,IID#b6bca3ff55e0af61e18495d542e6f2d9,664-684-8587,1504.08
+02/20/2017,"Unit 3685 Box 1238 DPO AP 77941",zweber@holmes.com,SKU#87f5d8a4e70684e420eade3a1c662bc2,Sharon Page,21,IID#3dee7111244c9f443586a8f2d916c2f9,070-613-3201,1535.52
+02/23/2017,"012 Santiago Meadow Bradshawfurt, UT 35833",fwilliams@yahoo.com,SKU#5e9347a2570ab3609b013f4f65c4cf62,Thomas Cameron,9,IID#3d4fa4e3c3d42116f0e1800f375c28b9,576-435-0379,1272.1499999999999
+03/05/2017,"97374 Mcintosh Street Lake Jennifermouth, ND 71802",steven62@gmail.com,SKU#e457fbae1dd166a0c89d244ac03f4e93,Mr. Joseph Sanchez,19,IID#c09dc0ebe962964085d7058954797228,906-515-4852,1486.75
+03/13/2017,"7985 Flores Mountains Suite 296 West Melindastad, PA 57088",ricenatasha@hotmail.com,SKU#f59ae39607f4248f731a3f754ba2bb0f,Melissa Moreno,7,IID#18b58be24a07c5c30afaca9cc3dbf4fc,693-205-7507,515.27
+03/16/2017,"97568 Rebecca Vista Apt. 400 East Zacharyview, MO 96562",amykaiser@gmail.com,SKU#323821054750939d32c26fec3a5ab7a5,Matthew Schmitt,12,IID#56e23a994d78cc716204d1d32d647fd1,655-271-9178,327.0
+03/17/2017,"55986 Wright Oval Suite 025 Johnsonshire, RI 84607",schmidtnicole@morse.com,SKU#f09f35a5637839458e462e6350ecbce4,Cheryl Acosta,14,IID#314276665c788835fa655fc682198566,977-174-8264,1250.62
+03/17/2017,"448 Timothy Port Apt. 602 Mariatown, OK 20301",rmartin@allen.biz,SKU#668fabd7829e5b8c5a58853bea0dbe1e,Anthony Lane,17,IID#30b11c9dd4abe38dda01ff3c1d03dce0,928-611-1823,725.05
+03/17/2017,"644 Brenda Tunnel Elizabethborough, WI 94431",liualan@yahoo.com,SKU#e1666b23e76e17ab3c06e318adb7d113,Adam Smith,18,IID#ac2c135efd232d2e68d93e3d1324d92b,609-994-6807,936.54
+03/18/2017,"52785 Stafford Path Apt. 493 South Stephen, MA 07350",garrettmelissa@hotmail.com,SKU#8532d183833cfe73efad8eaaaf4bab92,William Palmer,11,IID#abf80d4a9043d0798e24d1a5f17e698a,702-262-6404,864.38
+03/24/2017,"122 Michele Light Lake Steven, NV 57490",rbeard@gray.com,SKU#3cc6142f4b034d89493334655228d611,Erica Wilson,19,IID#98b63b1c66ab815964e80da64bcbeee2,684-988-0518,770.83
+03/30/2017,"591 Rodriguez Mountains Apt. 039 Christinebury, FL 62696",iingram@hotmail.com,SKU#3dee8cafb2684396b42a08cc5dd2d132,Jordan Clark,6,IID#c708f38e954526e296e2eac1b4e38f34,258-810-7007,636.36
+04/02/2017,"972 Moreno Circles Jessicamouth, LA 19971",jasondaniel@hotmail.com,SKU#c509359f498aa0d1f98b7c29ca3c9bfe,Katherine Nguyen,19,IID#d68d405381d4289f3946dd7153bde98a,340-224-5719,1888.6000000000001
+04/06/2017,"9174 Osborn Forge Lake Todd, TN 54619",jamesosborne@mendez-johnson.net,SKU#65417194f6d766568524ce96d0511311,Jessica Beasley,6,IID#cf6dee7ba32e07840fce11a3a4ced9d8,760-492-5290,713.16
+04/13/2017,"6581 Vang Stream West Sergio, AL 66839",suzannefrank@hotmail.com,SKU#b1aeaa449c48f1a53724de8f21c7baf7,Scott Silva,7,IID#4e182530ffa298e66ff83efb4818befb,227-693-9909,784.21
+04/23/2017,"USCGC Fernandez FPO AE 56978",ronald05@gmail.com,SKU#12108beb1d891f8b1b4d19d8eb7888cb,Julie Phillips,18,IID#bc8359106ef4268882df0a73ef87c676,547-474-6420,2080.62
+04/25/2017,"07619 James Manors South Susan, NC 76399",pamelasmith@yahoo.com,SKU#cea67ffae620e6410ed0590dc6ec9b92,Tammy Pope,19,IID#c163a421324c002cf20eef56577258ba,647-989-0348,1263.1200000000001
+05/04/2017,"086 Aaron Islands Apt. 873 Brownfurt, OK 67856",smithmisty@yahoo.com,SKU#2199d3381c925a326f5e84d81a3821a6,Karen Fletcher,13,IID#76d29a4aa56878b89c77d8870fc2c662,413-480-5130,1749.8
+05/05/2017,"081 Love Motorway Suite 382 New Ryanchester, CT 12287",sbooker@yahoo.com,SKU#df4f83c1f72e36823a12b0dfc7617313,Tristan Petty,13,IID#cbd7fd90c4c0f83153109d19fd7be540,657-401-5691,1480.18
+05/06/2017,"PSC 9738, Box 8636 APO AP 80792",anna61@taylor.com,SKU#14cb043bce71e268d3afd06e6dd6e1fd,Sarah Mckay,22,IID#e34d790aaf8a9e46fe2493426f89209e,428-981-0096,2853.84
+05/07/2017,"346 Lucas Extensions Suite 423 Wilcoxchester, MN 23092",iholland@walsh.biz,SKU#437687da72730cf42ce36bd093b78b3e,Melvin Johnson,13,IID#20deac6569137cbaaed0e7259d75c722,190-806-2512,597.87
+05/09/2017,"651 Roberto Field New Luis, WY 47843",fgreer@thomas-fisher.com,SKU#f66fc0bca6c6c54502dd321de6d3df89,Kelly Elliott,13,IID#e987fe4f3e938774b487913d7fd63b4d,660-978-5040,1502.28
+05/11/2017,"7030 Darryl Gardens Smithland, MO 21489",knewman@yahoo.com,SKU#81d944c57b8df3f807b46c7a1b55fcb5,Katie Le,16,IID#8cdd64341900c5e44a9f2f07275ce3ce,733-357-1641,862.4
+05/11/2017,"89811 Kevin Locks Burnsville, MA 84678",blackwelldestiny@chang-moore.com,SKU#1ef0dd39f3e292cb93ad6ffaebe33c83,Caroline Bailey,13,IID#ef9cf46a6f024370ec33410429254bc0,161-227-5734,719.94
+05/19/2017,"8941 Green Falls Suite 625 Conniebury, IA 78461",sdecker@hotmail.com,SKU#2137363a8eb7a264d120a221e4b61ec8,Daisy Reyes,16,IID#d37dca621bee5bf07cadb9ce488e2081,329-117-4454,2174.56
+05/22/2017,"32101 Ruiz Estates Suite 803 West Marietown, MO 81058",zjohnston@yahoo.com,SKU#1bb3f933f0b35c7a3787cb2fb44beba4,Richard Hill,13,IID#62bbef4bf7333270cd03c2989e6ff286,984-662-4963,1934.4
+05/26/2017,"6241 Chandler Freeway Apt. 963 South Erin, MS 02852",daniel04@yahoo.com,SKU#feace763f73e3db720a70c6fbfbaab07,Nicole Hull,10,IID#bf15a49136b06be293acb60c3da8fa32,486-431-3762,820.3
+05/28/2017,"465 Connie Garden Suite 109 North Robertland, MI 37796",ssteele@jones-smith.com,SKU#27418f9aeb0fae483bcf13272efe6310,Kimberly Romero,15,IID#f687a0fe7ca24d71119c06f7d70987e8,005-968-3585,1367.25
+05/29/2017,"32343 Ramsey Cove Apt. 192 Port Tinaport, ID 94978",karenbrown@bass-rogers.org,SKU#f5cfd73023c1eedb6b9569736073f1dd,Jesse Miller,22,IID#5eb1d6a1e795fce2c4284ec241cfdef7,780-180-8394,3010.04
+06/03/2017,"PSC 3374, Box 8608 APO AE 51452",clarkdylan@hotmail.com,SKU#e02dfc3d5735544664a69a8dae00a9e9,Jonathan Lane,26,IID#4ab9aeec9c1aba38f2d9b18b8128db35,793-967-1428,3731.5200000000004
+06/04/2017,"8045 Phillips Plaza Suite 369 Timothyborough, FL 01671",kelly40@gmail.com,SKU#281814d2404251097e8f324145559472,Noah Clark,16,IID#7ed2797bdb9c21d9ed9f3b58dc9206a7,827-368-7999,1013.12
+06/07/2017,"38192 Johnson Island Johnsonmouth, NV 33138",craig15@yahoo.com,SKU#f3a534d52e3fe0c7a85b30ca00ca7424,Austin Washington,15,IID#c9f8ccd3406c6eee708b0b90f56eee45,616-383-5564,2050.8
+06/08/2017,"81612 Samantha Springs Thorntonport, MI 79102",grahamvalerie@gmail.com,SKU#29dbb24810bdd7f802c1165f8bc3a714,Christine Oconnor,16,IID#f9c8f934a772e618987b2bc5fa9054ff,949-803-2963,2268.8
+06/13/2017,"9566 Lewis Common East Ericberg, WA 91929",xstout@jones.com,SKU#385bea3f7f645aa973e0f50400c25979,James Bryant,14,IID#014252c05431b8ae42d2552b15ef4c1f,518-148-2535,1591.1000000000001
+06/15/2017,"845 Williamson Stream Apt. 361 Brewershire, OK 04402",allisonlong@hotmail.com,SKU#6e5096a93027a0d145a8d3c8ea4b701f,Juan Hughes,8,IID#414f7e7c865648e7de43525e28ce01b6,210-828-4827,785.92
+06/17/2017,"26762 Travis Extension Suite 209 New Anna, SD 74688",scott09@wallace.com,SKU#be9a60d34f059d2adb8de94bcc620af6,Sheila Berg,15,IID#f6705a0d6e3ebcc03e6688fdecba2aef,927-693-0336,726.3000000000001
+06/24/2017,"458 Dunn Land Suite 397 New Christinaville, AL 77511",hallnicole@hotmail.com,SKU#62aed4f3f9277808536c0ee59896f0ff,Troy Schmidt,21,IID#13c5b7e75f6e7d027c255809f2b0c9ee,250-854-7247,1517.46
+06/28/2017,"493 Meagan Fords Boydburgh, LA 91663",marcussmith@hardin.com,SKU#aea2fa668453e23c431649801e5ea548,Richard Jordan,17,IID#c2b102b74f0618379c196d3f4e391158,990-323-7377,1110.4399999999998
+07/09/2017,"323 Reed Brooks Port Daniel, SD 34310",joel47@miller.biz,SKU#8e19213e1156d922d41679729f7ba8ad,Stacy Webster,18,IID#f1ed01688a7fc01c07214acf71a3bb5f,572-967-8500,760.86
+07/17/2017,"037 Christopher Spring Apt. 450 Floresmouth, SC 95460",ingrammichelle@melendez.com,SKU#9e6ac300fabeb2791fef26613b0c3a00,Richard Espinoza,11,IID#cfdd4cbf6fcb0097e3ced06c8be61106,032-115-6624,1026.3
+07/24/2017,"7030 Darryl Gardens Smithland, MO 21489",knewman@yahoo.com,SKU#002d5910de023eddce8358edf169c07f,Katie Le,18,IID#cce03384d7067c3a2112170f10c8ff6e,733-357-1641,2514.78
+07/24/2017,"02231 Raymond Forest South Elizabeth, CA 31939",patricia80@larsen.com,SKU#6995ecc80f661f51b5f3a40dca5df020,Megan West,12,IID#c2a606f0980a6f2508745f3024605007,188-462-4591,1305.48
+07/28/2017,"PSC 3902, Box 3515 APO AA 44539",theresabrown@yahoo.com,SKU#782d7b5488175ae07bbe22b43f937d87,Nancy Smith,23,IID#8a52a2f8770fd343a0e41381c2965891,526-750-9967,1060.0700000000002
+07/29/2017,"202 Aaron Forges Suite 784 Lake Lindaside, DE 76261",joshuacaldwell@jackson-shaw.com,SKU#6c4bbc2191b9fca407592ebc86567a12,Debbie Hill,19,IID#4344a94ab3685e29f86aebc5fa99da33,191-603-4164,1341.7800000000002
+08/02/2017,"721 Brittany Court Apt. 661 South Christine, AR 37705",james07@strickland.net,SKU#b203621a65475445e6fcdca717c667b5,Brian Schultz,12,IID#06da9788a15c8f195bb3929fd0f7c3d9,459-817-4061,269.28000000000003
+08/16/2017,"599 Huang Trail Burgessbury, WA 18480",dustinhuff@freeman.com,SKU#c0dff1da881341b4e8b54a9cb6c91fff,Teresa Bradford,17,IID#26aa485e2f23a4592a094e56882ac9ab,985-279-4330,271.32
+08/18/2017,"84633 Wendy Summit Suite 529 Robbinsview, DC 29032",tiffanyperez@gmail.com,SKU#e2f00d570092fdbb8696d63e3d4d0fdb,Dr. John Randolph,11,IID#ed4501ce20ce0a6fdf9d2d8ccd8b5e0b,422-826-0131,448.58000000000004
+08/29/2017,"01594 Schroeder Skyway Suite 766 Josephshire, VT 69046",hpatel@wilkins-kemp.com,SKU#efdaddb1fa2fdce326c52fb89c220863,Noah Booker,8,IID#a1ca700f093704fbb5d9d726342acd38,738-308-3144,206.72
+08/31/2017,"4087 Hall Lights Apt. 128 New Kelly, VT 61834",robert24@gmail.com,SKU#47ac0716d5626deb5d6bd92f052d67e3,Crystal Stephenson,9,IID#de7928263939e3243f1450095d6f86a9,653-965-4467,752.04
+09/06/2017,"906 Eduardo Isle Port Maureen, IA 36248",qrangel@andrews-johnson.com,SKU#d310a40483f9399dd7ed1712e0fdd702,Brian Greene,15,IID#4d29c66da0f1499032e0719186c55010,197-106-0927,1028.1000000000001
+09/08/2017,"21525 Aaron Neck Suite 211 South Leah, DE 87095",kvelazquez@gmail.com,SKU#2fcd4070a198ccd99cc243ff1979f984,Christopher Mckee,16,IID#c184192a046e18409e965b838a773e48,402-431-0208,594.08
+09/08/2017,"USNV Johnson FPO AP 31548",daniellekey@yahoo.com,SKU#0f920b318099067931645536f9dd233c,Larry Berry,5,IID#49058d78c9ef3a87eec735d23c9521bd,463-870-9149,196.64999999999998
+09/19/2017,"74658 White Light Apt. 232 Nunezside, CA 45370",littlethomas@gmail.com,SKU#f38284ed47516389c1d0d0369b7b56cf,Ricardo Butler,21,IID#d6262fd9769a39499f846075fad17c45,594-115-6845,2157.33
+09/21/2017,"92060 Berg Coves Jimmyview, NH 05895",gcuevas@gmail.com,SKU#421cd12b43e660f10da31bee36e85f4b,Eric Boyle,16,IID#e34b3e68aff6563f92c0726a55d7a4bd,406-587-4171,742.4
+09/21/2017,"958 Taylor Loaf Elizabethberg, DE 90235",rhamilton@thomas.com,SKU#4f6e98693c8493169c2fc6216447880f,Connie Odonnell,18,IID#b2be7d280b9f7ec2baf5159a21013e4b,712-871-4742,421.74
+09/22/2017,"90278 Timothy Overpass Suite 078 Lake Rachelborough, CO 93262",romerochad@gmail.com,SKU#11b1eeada5df474b77ce3a7ce3c65338,Jessica Fritz,15,IID#5e81505b4e2f65f1b442ceaa91662548,898-459-8511,2269.35
+09/27/2017,"098 Owens Ramp Apt. 483 South Dawn, MO 90789",brownjennifer@davis-mcknight.info,SKU#16b41a8dee51a47cf362ec449b2a4ab0,Ashley Olsen,13,IID#c0240936e588db7ed1e88b31efca35f1,130-383-2380,1951.3
+10/03/2017,"2400 Bowman Lodge Lake Nicholas, VA 74962",meyerscassandra@hotmail.com,SKU#2e715b7aec9cd1260982b62b78432cd9,Amber Kelly,15,IID#9ef705d76def01a3cba362f54ee3643f,998-411-6686,1444.8
+10/04/2017,"12839 Tracy Brook Maloneview, CT 53794",vjackson@jones.com,SKU#a396c59a96af3b36d364448c7b687fb1,Elizabeth Santana,24,IID#cc0eb0ae4fafcb34aa0a3e7c3c00e545,645-130-1139,3408.24
+10/10/2017,"78771 Erik Glen Apt. 957 Lake Markborough, WA 10723",scott58@mullen-myers.com,SKU#9a921c4351f15b4a634f0d4ba412952e,Maureen Graham,16,IID#e826b42696a7a732bfc6d870bdf3a1ac,315-904-1406,1155.52
+10/15/2017,"1932 Victoria Trail South Catherinebury, GA 78648",maryrobinson@gmail.com,SKU#49a599e1d83dba28fc110fbde5e42340,Daniel Alvarez,18,IID#8efb818d1c9a2d22cb9cc54600ff71c5,315-840-3857,2890.44
+10/18/2017,"057 Ortiz Pine Aguilarstad, ID 86364",fgeorge@hotmail.com,SKU#363c2e67f9e853fbc532d0b6404db30a,Patrick Mitchell,20,IID#b467e8852bdbe238e8802b5319859adf,097-608-8652,2140.8
+10/18/2017,"301 Suarez Forks Apt. 657 Jamesmouth, SD 75561",andrewspencer@simpson.com,SKU#7228a8ed79083f23b1c166934d53ce57,April Newman,14,IID#b34e9c982dcb92c7c3a93851bfb40ca6,298-508-2988,1034.32
+10/25/2017,"012 Santiago Meadow Bradshawfurt, UT 35833",fwilliams@yahoo.com,SKU#3c2bfeac2ec39c652fad00241bdf552f,Thomas Cameron,22,IID#484aac4e2c82b341a941d0b8edb2ce15,576-435-0379,2532.8599999999997
+10/29/2017,"556 Sanchez Groves Graybury, MN 72982",shannonflores@hotmail.com,SKU#2c16868331f82ff43059dcb0ea178af3,David Adams,18,IID#cf27d0af6372b519d5621b7933d1fe85,154-363-3302,1467.18
+10/29/2017,"632 Bell Islands South Gordon, MT 67718",amyconway@hotmail.com,SKU#c3f870be49ca32e3169e7468d398ef22,Whitney Nguyen,14,IID#1e8a9d4d988d00a1a0ca9424244e9b88,667-644-5641,1362.76
+10/29/2017,"3071 Haley Rapids Suite 826 Lake Colleentown, NE 01914",oreyes@henry.biz,SKU#cea67ffae620e6410ed0590dc6ec9b92,James Simmons,14,IID#5af3eae4e479ed84b3be6d85a843037a,424-931-2899,930.72
+11/04/2017,"5961 Daniel Row North Bradleyfort, DC 37648",adamslaura@hotmail.com,SKU#335a7c8e767a2dd0ecf3460eaabb0bbd,Tanner Stuart,8,IID#e6c157145d82d3761e6a58700881eab2,943-231-5739,778.72
+11/08/2017,"77820 Maria Highway Lake Stephanieport, HI 69303",carlosedwards@hotmail.com,SKU#bc9b6e84cda86c0df0a708638ee4a2b1,John Johnson,17,IID#1a5c433b726e66d04ed3e602cb446a19,599-015-6489,1756.27
+11/13/2017,"392 Michael Points New Thomas, SD 05814",stacey54@yahoo.com,SKU#2e715b7aec9cd1260982b62b78432cd9,James Hill,17,IID#caa56953a1c5917a297dd3d7fb2293e0,433-865-4395,1637.4399999999998
+11/16/2017,"36726 Kyle Vista Suite 752 Leblancborough, ND 80233",katrina60@cole-lopez.com,SKU#eecd109a97f2bb0ca35fd4f7bb303543,Maria Mckenzie,9,IID#3c4465679fa517dcbfa556aabde7c0f1,045-246-1381,1047.6000000000001
+11/23/2017,"9346 Phillips Rapids East Brian, AK 49431",deckergregory@banks-patton.com,SKU#da73b095989c3489d615e0d1e05961c8,Rhonda Myers,5,IID#74af5412452dc05b1d5dc6233ba92cd9,538-942-0481,412.55
+11/24/2017,"308 Farmer Cape East Leviview, VT 65753",brian04@hotmail.com,SKU#a9235453f1fb672db828a673ed597d2e,Tara Walters,18,IID#8ac97a86650035e177a4249e297c5076,666-622-7052,2334.2400000000002
+12/05/2017,"7231 Michael Club Tiffanyhaven, UT 99932",hendersonsara@hotmail.com,SKU#8c4fc43652453a056826a2c92652e0fc,Ana Adams,14,IID#77691e31676b0cdfc136f1a39a065e5d,094-841-4979,2213.54
+12/09/2017,"77917 Sheri Lock Suite 873 North Deborahmouth, ME 27724",mendeztony@carter.com,SKU#9ee38aeba19f4d46fcd9eda4661325d2,Andrew Daniels,12,IID#9bec27f14403f9e68f8fb3c55f7d64ff,363-818-2902,1476.24
+12/12/2017,"5422 Michael Knoll Susanborough, LA 38505",hfuentes@gmail.com,SKU#53e079183ddf7a114aed02f9f4d3efbd,Laura Thomas,21,IID#a273bcfaa0daae38b88fee06166680d3,775-790-4075,766.0799999999999
+12/15/2017,"13212 Greer Curve Webbside, SC 18346",evansbryan@hotmail.com,SKU#9de28a432cf27be561e783b3be67fa4e,Phillip Harrison,24,IID#dc31dd35dee8824fdc2009cc70d4235b,986-348-8496,2541.12
+12/15/2017,"017 John Island Hickston, OH 14443",garciamelanie@conrad.com,SKU#651bcf535ed50ffa7724c8751bec1a66,Lori Montoya,17,IID#b911436acdd25497d33470aefb317639,645-189-1370,2235.5
+12/15/2017,"8536 Susan Course Mariaton, LA 30379",avilajessica@gmail.com,SKU#e998be3d3bb15661763e4ff1e1c9a3e7,David Diaz,18,IID#c228c297e71a242860d601f9d5f86778,302-347-8364,1883.34
+12/16/2017,"9376 Mueller Village Apt. 974 Latoyamouth, MT 24995",natalielynch@smith.net,SKU#c3f870be49ca32e3169e7468d398ef22,Charles Harris,8,IID#05cd3265a4c4a005682b0553a485c49d,441-513-6295,778.72
+12/22/2017,"120 Mcdaniel Forest Tammyview, DE 72045",michaelgordon@ramsey.net,SKU#3e586cd8128ba5d03ccbc121909e7421,Justin Harris,9,IID#27a38864ad77d7e0dd68ace8bc069f28,632-404-6153,236.52
+12/24/2017,"465 Connie Garden Suite 109 North Robertland, MI 37796",ssteele@jones-smith.com,SKU#95d9ec52f8dbf368500b11faea223d28,Kimberly Romero,19,IID#220a99754b02f413dd63f0743980922c,005-968-3585,616.5500000000001
+01/10/2018,"77678 Thomas Alley Apt. 471 Lake William, IA 27451",ipayne@gmail.com,SKU#cf419aec312cf4b6abaa849d67e31093,James House,17,IID#0e87dbb4a1a6e75985133f50256e333d,786-932-1531,595.17
+01/14/2018,"254 Gary Extensions Allenport, MD 90109",owenmary@grant.com,SKU#05fc90d38e2468528ad10b5ce0bff46f,Judy Curry,13,IID#628d3548391e270ed5d9ad4f4371157f,445-658-3411,1551.03
+01/15/2018,"806 Robinson Wells East Paul, IN 88449",mbaldwin@yahoo.com,SKU#49a599e1d83dba28fc110fbde5e42340,Megan Simpson,12,IID#841134492c85d97feabff72a2308bb45,238-013-3583,1926.96
+01/19/2018,"146 Jeffrey Stream Suite 997 South Carla, MS 05137",pennymoore@sanchez-herrera.com,SKU#5cacb4805e5d8b17ef79665d09ca0797,Sydney Holmes,16,IID#8d1ca4cc5a9919fae6bacd240c003c83,735-859-7957,540.16
+01/20/2018,"46552 Paula Mill Suite 294 Port William, ND 19984",thomas08@weaver.com,SKU#d13b5ffdeb538f15ee1d30f2788601d5,Mark Booth,21,IID#4ea4a8441c3837bd4760bc32f42b037f,180-020-9201,823.41
+01/24/2018,"206 Burke Drive West Thomas, KY 31344",emily74@powers.com,SKU#f38f0b959cdd64bbbc5d73c2c24fddcf,Rachel Rosario,13,IID#3a9a613aa6609e9c3d3f000aad43afbb,799-188-8473,1409.8500000000001
+01/24/2018,"633 Nicole Row Apt. 459 Nelsonfurt, WA 46332",mark67@hotmail.com,SKU#436dde36c9fc294189932638f3789898,Gregory Davis,12,IID#ec5976507b050afba2f8e43b9ec445ad,389-679-2962,468.59999999999997
+01/26/2018,"050 Christopher Villages Apt. 831 Kristinport, AZ 01141",sara35@smith-sanchez.com,SKU#3257f8338662d08c64af5adfd3c2fb17,Eric Avila,17,IID#5f80149137e584428e3e7d394c5f34bd,832-786-3829,610.98
+01/30/2018,"8825 Hall Spurs Suite 192 New Brandon, NM 47717",oliviasnyder@wood.com,SKU#9e6ac300fabeb2791fef26613b0c3a00,Elizabeth Gilmore,13,IID#64f113cbc63401268aca8eba7bb095e5,724-557-7736,1212.8999999999999
+01/31/2018,"Unit 1240 Box 9785 DPO AP 62669",vrose@howard.net,SKU#9b7eeab7d5643bb97d4595d6b3ba7c6a,Christina Robinson,11,IID#31db8b024348d75dd48a46f847fa1c41,862-260-8721,1271.27
+02/11/2018,"2855 Wood Island West Christineton, MT 34794",rbanks@yahoo.com,SKU#530760e26291763b437871583c568557,Kristine Blake,18,IID#bd6bb612c23b6d4469dcf89eb58a000d,763-029-9124,2014.3799999999999
+02/20/2018,"417 Sarah Courts Suite 927 Rebekahview, KS 46502",qshah@gmail.com,SKU#a2a5bb0f1f0a8eb31a3c60a6ad28543f,Eric Wilson,19,IID#999b84646b7c1e416978d7e239862af3,333-587-7136,1762.82
+02/23/2018,"8384 Bonnie Brooks Tylerborough, WA 01187",john00@yahoo.com,SKU#aa5cc31a55a17c79fa3ccc1266d6f0ad,Stephanie Rodriguez,22,IID#636ebcbf457418781fc3d924e2b20e6d,470-822-0376,529.98
+02/25/2018,"599 Huang Trail Burgessbury, WA 18480",dustinhuff@freeman.com,SKU#1adcb05e97a9d3de3c80d399692829b7,Teresa Bradford,17,IID#82cd1f928d4479e8f295bb8aa1ec07a8,985-279-4330,2121.94
+02/26/2018,"07044 Patrick Mall Victoriahaven, NM 42151",starkhannah@yahoo.com,SKU#01b53ab60d1307f1db2f793377d3af08,Catherine Wade,9,IID#f34e4a15ad4d1db7822ab1800197480a,740-282-7271,1125.27
+02/26/2018,"90014 Lee River Ortegaville, UT 94536",betty04@hotmail.com,SKU#6f6b5e30af6a9e64b7b6a19c39de7e0c,Bryan Harris,17,IID#f51cf65b25ddfbc6dba09d2733c20f69,073-328-7244,1905.87
+02/26/2018,"71285 Johnson Path Apt. 173 South Annamouth, NE 34443",ejohnson@luna.com,SKU#f6c8964623e559ff358a24fd0b7d1240,Courtney Caldwell,12,IID#db8083511e7fc1a511c517f6f8e599af,966-495-3794,1447.08
+02/28/2018,"507 Katherine Lakes Apt. 725 Emilymouth, CA 34183",erin90@young.com,SKU#692ba5b983b4496ddae9cd433a707aa7,Diane Daniels,15,IID#1094205cbaf5937726335456f122eb20,706-848-0847,985.3499999999999
+03/04/2018,"556 Sanchez Groves Graybury, MN 72982",shannonflores@hotmail.com,SKU#348cf1fcc695c82009f0b906c2d8fdff,David Adams,23,IID#857a08653ccd35680659df43adb95dea,154-363-3302,1745.7
+03/04/2018,"156 Pamela Mission Apt. 003 Stephenland, ID 13429",lstephens@yahoo.com,SKU#6d6746c8f9b9a672e1dddfbba370b679,Ryan Jackson,22,IID#205f39360b7d8a9a3f98bb9c35bb8c71,452-085-3256,1476.1999999999998
+03/07/2018,"343 Weber Dale North Michael, ID 57458",joepeterson@jones.net,SKU#9ed6b7c09f17400369236fd54f28ca29,Justin Thompson,24,IID#1ac839cc6dd7002ef94618225e2f5947,786-937-7763,3104.3999999999996
+03/10/2018,"73512 Richards Orchard New Seth, VA 25814",lowerypaul@yahoo.com,SKU#2a5af264f823064d58259632271cd180,Melissa Taylor,12,IID#38311c138fd191336f5e200a14ad60e7,012-415-8052,792.1200000000001
+03/19/2018,"106 Jennifer Alley Apt. 693 Johnsonburgh, MI 98626",brownmckenzie@hess.com,SKU#685fa71c2a5da989cb57c7150484805a,Amanda Perez,15,IID#6d096a9e0dd3e9f20fc7e25572dfc43e,801-202-8782,812.25
+03/20/2018,"PSC 2475, Box 9361 APO AA 81829",staceyswanson@reid.com,SKU#efa94f64068c70cdf0270381ad3cb34d,Randall Perkins,18,IID#f979bf28f2922e2092a878e6903f3dff,877-900-1611,855.9
+03/23/2018,"37775 Jacobson Radial Erikhaven, AZ 23183",wardderek@duncan-evans.biz,SKU#05292ae368555ae1dbde635f071b0369,Robert Hansen,13,IID#7f6446e1434413562999eecbd20ae29b,666-382-0206,1234.48
+03/26/2018,"585 Debra Parkway West Michael, NC 33557",hjenkins@preston.com,SKU#efa94f64068c70cdf0270381ad3cb34d,Patrick Ellis,21,IID#fb30d25c0cca33d019bd14e98ea11767,414-339-7469,998.55
+03/27/2018,"4330 Erica Radial Jameschester, NY 86492",jaredmunoz@hotmail.com,SKU#b30256abadd6af8badbcc07d790003fe,Melinda Hughes,19,IID#3756c02e177d626b8705940bc3742259,698-272-6704,2604.14
+03/29/2018,"30568 Kristina Lodge Suite 650 Williamsmouth, MS 05251",pamelabarrera@hotmail.com,SKU#6a1d1570d7662ed0e85ac8ee278b4178,Thomas Obrien,12,IID#5053f58c040939a032d2a2cc912c5ece,999-806-8489,1437.3600000000001
+03/31/2018,"70505 Brian Loaf Apt. 324 Karenland, NM 20952",paulasmith@greene.com,SKU#2d14244e3f3a05e2d572a13ab80b7761,Nathan Carlson,27,IID#f614d7560a8c4c1d9ef96b46c9b49644,138-992-8014,3126.06
+04/01/2018,"83968 Gina Squares Thomasmouth, OH 48742",brett91@martin.org,SKU#4f8314c91ac9fe6397eafe6355213999,Sharon Velazquez,26,IID#fcb1d592ceaeff2ad4190540f9438ccc,289-368-0906,1450.02
+04/03/2018,"556 Susan Mountain Nathanielfort, ID 60427",joel55@bird.org,SKU#a66df92f58a96dbf30ae157c0d7e2ded,Jose Rivera,16,IID#9364cb2506eaa94b1bd3fd1a3cf808a6,295-975-2640,355.84
+04/06/2018,"12859 Antonio Shoal Perezfort, FL 94170",ileblanc@walters-alexander.biz,SKU#3ce9d74193d28338494362767873ba7b,Joseph Flores,12,IID#3addd567d532605a6dcd2857ae06c545,917-130-7906,1269.48
+04/08/2018,"0388 Allen Rapids Matthewside, KS 04292",brandy57@hotmail.com,SKU#8a6c6015821a7b3e6cea958b2a6c18fb,Peter Smith,16,IID#3d448fd8efafeee3edb7a831f120dcb7,307-601-8781,469.12
+04/11/2018,"972 Moreno Circles Jessicamouth, LA 19971",jasondaniel@hotmail.com,SKU#7228da7250d357ec26e8755a0bdbd652,Katherine Nguyen,15,IID#0f5a3dfeeb1cb10b4e2650969fad485f,340-224-5719,1871.55
+04/12/2018,"7775 Mary Pike South Nathanchester, KY 20198",dmiller@lawson.com,SKU#7d8302df4582de342a31d0335e979ae7,Adam Brown,9,IID#c609a13cc76f99e1e00ab9efc03939e7,598-086-6700,601.83
+04/16/2018,"6123 Montgomery Mall Apt. 422 Johnview, DE 93664",kathleen98@gmail.com,SKU#2a78f84427d1d591409740722e60d793,Laura Clarke,20,IID#3d6f57ca25fc083623fee53283e0c8d9,797-254-5641,2123.2
+04/19/2018,"06730 Stevens Flats Brandonbury, GA 57982",kcarson@carr.com,SKU#e3c4dd21a9171fd39d208efa09bf7883,Henry Stone,21,IID#2eca842aa8662cc5ceb102a45332e632,375-031-1149,2130.24
+04/25/2018,"048 Obrien Plains Apt. 812 Stephenhaven, TN 35957",jessica06@hotmail.com,SKU#3f7323acc829bc8b3799148d439b3d47,Amy Johnston,13,IID#7be4ef7b1c6d271bb3950fd029b65d6c,165-286-4033,1802.3199999999997
+05/07/2018,"6123 Montgomery Mall Apt. 422 Johnview, DE 93664",kathleen98@gmail.com,SKU#6e5096a93027a0d145a8d3c8ea4b701f,Laura Clarke,13,IID#99c365e25b7747c137874143076b8010,797-254-5641,1277.12
+05/10/2018,"343 Weber Dale North Michael, ID 57458",joepeterson@jones.net,SKU#2f2c09c2e2f5d90225d271bd431b9b94,Justin Thompson,14,IID#216d50127d88ec563fa02b98e6edc6a4,786-937-7763,2012.6399999999999
+05/13/2018,"4368 Jackson Street Apt. 220 Lake Jamesville, CA 69436",derrickrose@gmail.com,SKU#a6e63d588ff7c3fbb8704fa66bbd5fec,Timothy Potter,9,IID#10496c8a8d6ea8b13a49d57cb4e497e3,183-177-9973,910.4399999999999
+06/01/2018,"97374 Mcintosh Street Lake Jennifermouth, ND 71802",steven62@gmail.com,SKU#4556165d7fe41c7700cbe455a5767d40,Mr. Joseph Sanchez,17,IID#371bc9f703f109637d6b96e34b769365,906-515-4852,1188.3000000000002
+06/04/2018,"8253 Johnson Islands New Crystal, MA 71833",mejiarandy@garcia.com,SKU#6cbbe3240a203b0ff387d9bbdadd49ef,Eric Wilkins,21,IID#7cc308869b9af127651e2d385e7b2c09,401-363-8793,1246.77
+06/05/2018,"3000 Mendoza Lodge Lake Maryville, HI 26474",wmckinney@moore.com,SKU#0219d056409b3b29171b3b2ed66edcf7,Randy Smith,16,IID#4037a000f5688883998bc79f30154220,780-141-1586,2115.36
+06/07/2018,"293 Flowers Islands Apt. 224 Lake Robertbury, TX 16743",parkerkaren@hughes.com,SKU#f8604af8f8b94ba9236cadbbcf392cf8,James Carlson,10,IID#b634b0e9e79d15cae744fdb5aa5a3d5f,585-571-1565,663.5
+06/08/2018,"8614 Brittany Falls Jamesmouth, RI 44387",aaron64@yahoo.com,SKU#a6e63d588ff7c3fbb8704fa66bbd5fec,Kyle Little,16,IID#511c8864e694ec50a3132eff8166edb2,991-136-4445,1618.56
+06/12/2018,"USS Buck FPO AE 61355",christopherthompson@yahoo.com,SKU#c7ea739796f77dea0edf2dcebe980a6b,Catherine Brown,14,IID#ac69c0fd9f1a87904c90db6d63ede13d,222-167-2470,1709.12
+06/21/2018,"969 Holmes Groves Jeffreyfort, WY 82957",karen32@norman-avery.net,SKU#83e0cba63de0511e1f933e9a662afaaa,Jean Castillo,16,IID#9e0a68ebfd14a4f04faf599b995161c6,492-000-2015,1808.96
+06/22/2018,"33543 Jennifer Ports Apt. 486 Santoston, IA 31229",jeffreyphillips@hotmail.com,SKU#d900292143678bd768ab3fc620883eae,Matthew Johnson,4,IID#461f3633ee5a1afa0f0c39dc656735f7,685-368-2228,471.0
+06/26/2018,"66099 Robert Mountains Thomastown, MI 56311",bennettdavid@hotmail.com,SKU#0a15f50911fbd69c7f0d921f313ce4db,William Murphy,22,IID#d795d69f1da724542135ec82b65b8884,597-387-4236,1650.22
+06/27/2018,"29667 Allen Island Brianbury, HI 00893",nprince@gmail.com,SKU#ab61a1de6d87087e6d66fd274b7fb7f5,Kelly Vargas,15,IID#f114ca562b8c69b0bf16cd5c91ec5d86,237-824-2526,1580.6999999999998
+07/02/2018,"10216 Rios Mills West Michaelstad, AR 20639",crystalmassey@yahoo.com,SKU#f1084a10edd9af76c3e8ec16f8ac76f8,Emily Shields,6,IID#3c5dcf23352e58eb1fba07703d7b892d,666-074-9048,334.02
+07/06/2018,"253 Cooper Shoal Kempview, TX 11805",jonespatricia@george.com,SKU#2742e1f05ea7d3e8fd65942fe06c2f7f,Danielle Cook,5,IID#e59dc726d8f62a1095fc156aa9d127ba,049-817-3732,662.65
+07/08/2018,"5087 Dixon Divide Suite 180 North Stacey, MD 72765",ethanhale@hotmail.com,SKU#f66bbd2e5ab92eb20b68e23e0e7e2865,Shannon Warren,14,IID#51fcd4665c859165958b42e3009c788a,540-878-4849,1753.5
+07/10/2018,"USS Tran FPO AP 16017",davisstacy@castillo.com,SKU#5206cbaf5529838446357387ef409f1c,Kimberly Reynolds,21,IID#45145d1e8bb3567cdfc2b8543aac03ea,746-794-6505,2814.63
+07/10/2018,"2724 Gabrielle Stream Apt. 812 Port Alexanderland, IA 75952",jheath@arnold-koch.com,SKU#48e296d8287ae11c252e4277ee885161,Stephanie Lam,14,IID#9de5d18bb79f1cdf562c5429e02ae415,890-712-0545,389.62
+07/15/2018,"7390 Ashley Plains Wileytown, MI 08330",michellemitchell@hotmail.com,SKU#e6b62b76fb2eb2a0e0adde0c067da680,Katie Oneal,21,IID#23650f7fd9ffa7df999f90eadfed9da4,109-543-3754,2047.71
+07/21/2018,"36890 English Harbor East Christopher, MD 07349",rwallace@yahoo.com,SKU#6b431bf2da7c9312b3e5c21e67f6591b,David Skinner,21,IID#2885da6f5e6c42c741c19264c76c39ab,961-511-0657,2398.41
+07/26/2018,"280 Daniel River Apt. 087 Trevorfurt, SD 65510",jeffrey95@banks.net,SKU#ad4fd54959a373dca092b5333ae4310b,Brandy Buchanan,11,IID#a06ecaaaafb85ae4377c933565218484,619-548-3832,688.27
+07/27/2018,"00006 Stephanie Hill North Carol, ID 90483",tonya35@russell.com,SKU#3253ce1786d33d345bb622d8fcbfb2a7,Erica Conrad,21,IID#8163b806299320a8185891ad92c4a4e8,966-647-7757,3000.0600000000004
+07/29/2018,"79217 Bryan Fork East Davidport, WI 65880",nward@schwartz.biz,SKU#b8218972668b9e8f06798be702f74d30,Xavier Jones,11,IID#cfd1379911b4addc41c29fba9edb9e83,359-368-8752,1387.65
+08/21/2018,"USNV Andrade FPO AA 29556",steven13@yahoo.com,SKU#3953612797c9f3cee3a12e0774ccc984,Katie Ramirez,9,IID#f97d7239b879dbe4db4aaa9e56b5746c,269-863-8569,1366.56
+08/24/2018,"PSC 0523, Box 4052 APO AE 03421",tgarcia@gmail.com,SKU#05572f82de4f01b1e6f280b0b62a8334,Heidi Franklin,16,IID#9464dfc244cc6abba93df90ebdcae451,138-750-3451,1925.6
+08/27/2018,"PSC 3423, Box 7237 APO AE 94378",jstewart@hotmail.com,SKU#e33688bb1ac37935479d2776e748674a,Sherri Savage,21,IID#6bb74a4bca5383c8d3d572005192cf97,680-765-5876,2907.03
+08/28/2018,"145 Brian Divide East Joseph, MI 57385",qholder@yahoo.com,SKU#68cf4c147c95c7e6a1e5a6ee6dc7a185,Angela Harris MD,16,IID#e08c5898a204d0529eb95d287ff7f4e0,053-310-9673,733.28
+09/10/2018,"PSC 5767, Box 5687 APO AA 92019",eobrien@jones.info,SKU#9e292e386b7cebd21e02ad51f7ace213,Cameron Mckee,11,IID#9163997abb4556e1d8db99f0182fe6fc,949-257-7033,1126.6200000000001
+09/11/2018,"632 Jennifer Radial Apt. 772 Stephanieshire, KS 39320",fclark@dominguez.info,SKU#ccbdf684d154d86984b984bef22fb71f,Robert Long,20,IID#157ed0ec00e44933c3d5a5f7507165f8,331-137-5622,1825.3999999999999
+09/13/2018,"USNV Morris FPO AP 45975",raventran@hotmail.com,SKU#a1c8dcbd11c543b1e52a5ed5eab69994,Ronald Reynolds,11,IID#4a17e7a6699f1ff825b57242e28a1208,616-339-7848,1208.02
+09/15/2018,"724 Johnny Mission West Jeffreyburgh, WY 08526",sarahwagner@williams-nelson.com,SKU#08d4c7e304644e9b4ed461e24db02d90,Amy Smith,18,IID#526c53a62dd677f7471252e0e834c1df,946-924-8435,1532.52
+09/24/2018,"09262 Clark Road Port Jacob, NE 85482",vdavis@hotmail.com,SKU#e6ff7f3f04b9305cf28b21c5d08ef1e5,Sean Fuentes,12,IID#ba61559d14f83a1b0e6eb4bbd55daf8f,529-365-6325,1363.44
+09/26/2018,"72099 Herrera Tunnel Suite 368 Mistyfurt, OK 60193",kcantu@hotmail.com,SKU#e7633aa6a479bbbe82dbe794126bbeca,Marisa Haynes,6,IID#0f6070f2529b39917447474f132e580b,820-418-8089,685.92
+10/01/2018,"87252 Gabriel Meadows Apt. 740 Andreabury, AR 12520",morrisryan@smith.com,SKU#436dde36c9fc294189932638f3789898,Shannon Hensley,18,IID#2423204042750b69e884107c6b759efe,190-752-4644,702.9
+10/03/2018,"972 Edwards Heights Catherineport, MN 64875",jenna73@gmail.com,SKU#d00e81a86830948bf7d7ed15874c46b5,Anna Martinez,11,IID#fe1c637dffb9aaae8c6b537acc7ae3ba,638-017-7745,339.35
+10/06/2018,"36223 French Estate Port John, MS 92410",christopher80@gonzalez-wallace.org,SKU#27cf216aefe52d3245e88b0aa23a1677,Paul Brown,10,IID#1fbf032ce30ccda23b80d938943141fa,133-659-4251,1397.1000000000001
+10/07/2018,"9519 Kayla Spurs Apt. 190 New Benjamin, TX 76128",sking@hotmail.com,SKU#109071511d084d628bbf736c8bace7a2,Jennifer Edwards,10,IID#8f0d99f3de5dbd504ec65bbfa32a6b23,404-643-7920,1292.7
+10/12/2018,"84633 Wendy Summit Suite 529 Robbinsview, DC 29032",tiffanyperez@gmail.com,SKU#48e296d8287ae11c252e4277ee885161,Dr. John Randolph,17,IID#21aa382f22f5a11c7b0bfd828cb036a7,422-826-0131,473.10999999999996
+10/15/2018,"11255 Maria Trail Suite 328 Susanshire, CA 61855",christopher87@reed-frank.info,SKU#2a4ea5937237dcc9a394b47665d76acf,Anthony Henry,11,IID#8af8e2846cda1e3181db62cd0e179430,994-470-1338,971.52
+10/16/2018,"4368 Jackson Street Apt. 220 Lake Jamesville, CA 69436",derrickrose@gmail.com,SKU#4eefd60f439096ed98b6d8a585da12ef,Timothy Potter,19,IID#cf5e032a75105d4545545e85613840ef,183-177-9973,2417.56
+10/16/2018,"1623 Simmons Motorway Suite 752 Davidstad, WI 06240",mweiss@moore-richardson.com,SKU#c5a8fa007135596d5e1b0181c33eddc4,Melissa Hull,13,IID#67f129c2de97e4a82a5e3b667cfbf43d,372-328-7745,1893.7099999999998
+10/17/2018,"330 Angelica Forges Suite 077 New Shawnchester, NV 68541",ronald26@stephens.biz,SKU#7622214b8536afe7b89b1c6606069b0d,Dr. Kristen Mccall DDS,16,IID#906cdb9c41d5330af7a78a84b07067e5,444-046-0656,1561.28
+10/23/2018,"375 Meadows Grove South Krystal, CT 83962",lorettaford@hotmail.com,SKU#c2308b58a82b730cbaed7148a4b2343a,Linda Blake DVM,22,IID#b9ccf3e4e4e735d2351d9c03e028e98b,882-233-1766,1368.1799999999998
+10/25/2018,"95622 Crystal Forest Suite 020 Margaretfort, MA 98624",wjohnson@hill.biz,SKU#c509359f498aa0d1f98b7c29ca3c9bfe,Steve Lewis,15,IID#f660d5e961d8939396ce5c69af19b603,437-731-2197,1491.0
+11/04/2018,"32911 Eric Keys Jesusfurt, IL 03221",garcialisa@brown.com,SKU#b2e7af997fe202d9bff8ff8b6db3dc1b,John Johnson,13,IID#b9db35cd1d66a8302df3d28e68ba591e,811-841-1684,386.36
+11/06/2018,"09069 Mann Fort Reedbury, CO 89271",fparsons@hotmail.com,SKU#db46e81649d6863b16bd99ab139c865b,Emily Jackson,13,IID#821ad734c564d548772de380ef9b8e11,717-621-0457,863.46
+11/12/2018,"14513 William Meadow Kathyborough, GA 03469",rosesusan@fox.org,SKU#8b12b848f1cc13d4eb4c4cb4e59dfd46,Brenda Smith,11,IID#6307ad058c4fb7399eedb309a07d2178,503-697-1294,350.9
+11/17/2018,"859 West Lake Apt. 157 Lake Carolinemouth, WY 46307",hmiller@gmail.com,SKU#79680cd55a6b3db8e34b3ce1905b441f,Sandra Hughes,16,IID#d0f0ee09bb05e2d4742631b10eaf9b74,773-461-0710,1410.24
+11/18/2018,"31942 Brian Walks Apt. 778 Howellmouth, MT 14107",michael24@perkins.com,SKU#de3c77e86c8f132cb67976814a901841,Reginald Baxter,14,IID#ec4e137b2beb37b63cc98c1e4e8ec381,393-263-6401,666.82
+11/21/2018,"06730 Stevens Flats Brandonbury, GA 57982",kcarson@carr.com,SKU#63be8c1a5f7e53d837e3a4b347d8d811,Henry Stone,21,IID#0aaba2d2a484162a7eb44bd6bbc34025,375-031-1149,3147.48
+12/06/2018,"6123 Lam Inlet Apt. 675 East Nicole, WI 75614",buchananmary@webb.net,SKU#ccd9d8aa4c9fbad1069e4dd2c4982652,Michael Henderson,14,IID#2203a9ee339572a47b392057ce9a741f,013-268-3702,860.7199999999999
+12/14/2018,"480 Brian Village Scottside, WV 07559",williamspaul@henderson.biz,SKU#6923685781779ac0b69c77ec08ce0479,Julie Davis,12,IID#de8a37bd4e7d96e8d1b8f46e55a8ffbd,124-357-4345,329.88
+12/21/2018,"USNV Taylor FPO AA 52366",anthonybrown@baker-stone.com,SKU#05572f82de4f01b1e6f280b0b62a8334,Todd Walker,15,IID#1407b7527341befbefed14073c9e19f3,037-796-7297,1805.25
+12/23/2018,"293 Wolf Groves Port Amber, LA 73608",nielsenashley@burns.biz,SKU#14cb043bce71e268d3afd06e6dd6e1fd,Teresa Bryant,19,IID#c76990102c61d2e04a4934206c750910,538-934-6879,2464.68
+12/26/2018,"USNV Richardson FPO AE 25878",smithrachel@kline.com,SKU#93bb03f11ea814a8f791a1f2cf68659a,Gregg Ortega,17,IID#fc68673535c6da6609e4411a4c37f731,216-076-2927,2249.95
+01/05/2019,"334 Courtney Trafficway Apt. 227 New Anthony, WI 48750",tthompson@hotmail.com,SKU#792a64401688470b9b5ec4a1123eb802,Lisa Haley,16,IID#06357e8f04817cd682ae0313a2e3e605,716-776-6423,604.48
+01/05/2019,"645 Figueroa Trace West Luke, DC 77767",zmay@salazar-wilson.com,SKU#4f8314c91ac9fe6397eafe6355213999,Theresa Smith,15,IID#5c48169730c5e890928f479c5631b853,700-489-2609,836.5500000000001
+01/20/2019,"972 Kimberly Crescent Port Roberto, CO 34640",kennethlewis@stephens-coleman.com,SKU#05572f82de4f01b1e6f280b0b62a8334,Mark Campbell,14,IID#193d85d2953c6d207d3d079e796b670d,049-990-1546,1684.8999999999999
+01/21/2019,"284 Marisa Square Suite 478 Davisberg, TN 95791",mphillips@daugherty.com,SKU#95d9ec52f8dbf368500b11faea223d28,Donna Lewis,14,IID#c9cfe94798badc9a082765d84f32a2ff,318-114-3444,454.30000000000007
+01/25/2019,"5354 Daniel Meadows Mauriceville, GA 39375",iburns@gmail.com,SKU#b4b1cb3a3194e9d88e361273e66a1348,Brandy Jordan,24,IID#6c8ae6e3c3b36cab8f05dbf48b92217c,298-289-0112,2372.88
+01/26/2019,"675 Phillip Forks Ashleytown, MS 61280",lbright@farrell.net,SKU#05640f18f5c0807dd96697e31fc5d8ba,Lori Torres,12,IID#af3fad521c0534c51286250215bde556,613-510-8581,1607.3999999999999
+01/29/2019,"69860 Kathleen Stream Taylorview, UT 62212",longnichole@thomas.biz,SKU#47ff153f1d7396fa513426e9b17c9670,Nathan Clark,21,IID#a765150b8449d361cd1d5b4f115f1c67,321-953-0424,1575.0
+01/31/2019,"03587 Benjamin Streets Suite 827 East Christopherborough, LA 28700",lynchrobert@chang.com,SKU#56ddc7efc29d7dfb0d59d10321298727,Paul Johnson,24,IID#24271e8cb593611c9217265a743a1dbd,038-925-6692,2434.32
+02/02/2019,"61308 Michelle Alley Suite 962 Craigborough, TX 81225",fsmith@gmail.com,SKU#eca0470178275ac94e5de381969ed232,Lindsey Sharp,14,IID#b6d97d4dea986301bcb2ebac572d1656,138-430-7779,1682.24
+02/03/2019,"9914 Erica Square Johnsonshire, UT 45235",mcbrideshannon@yahoo.com,SKU#ea520dfad40b4e1c1c6a749d82e4a2c1,Regina Clark,17,IID#4c881787433fb6d83d8c691872d82c25,972-155-5578,1835.49
+02/04/2019,"60923 Allen Motorway Whiteton, KS 31993",kimriggs@benson-thornton.net,SKU#4aa476a72347ba44c9bd20c974d0f181,Susan Carlson,19,IID#0c7888a0d025d97b583405473bfc4ff9,476-838-3365,1102.76
+02/10/2019,"710 Brian Valley Apt. 016 Allenville, MN 79015",andressimmons@hotmail.com,SKU#b54fcc17e63f9858a2f50c46d3dbe6c7,Jacqueline Hensley,15,IID#0ce545f94e31c9bf5dc9b2839b1d44ba,604-934-0737,1344.15
+02/24/2019,"2247 Andrew Rapid Suite 675 North Ashleyview, MN 19167",cindysampson@hotmail.com,SKU#862dec5c27142824a394bc6464928f48,Kathleen Roach,17,IID#f23f10d8edd961e59d60b4a6dfdcc785,532-394-8124,1999.03
+02/28/2019,"539 Laura Trail Suite 205 South Ronaldstad, KS 85802",calhounmario@howard.com,SKU#01b53ab60d1307f1db2f793377d3af08,Allison Green,7,IID#24a7aaa1accf6d01ddfd0403b02a3f14,914-872-7546,875.21
+03/02/2019,"98506 Joann Rue Jessicaton, MO 74210",timothy87@green.com,SKU#74c5747a96ed8e17f4835ec431fc391e,Michael Wilkinson,18,IID#17d10f841d92fbd2bf0ccb373b98f781,598-182-2628,1011.42
+03/10/2019,"8743 Denise Passage Apt. 996 Barnetttown, TN 57607",halllauren@roberts-mitchell.com,SKU#04dbc66d8e4559769bb38a92cd6f7d9d,Faith Gonzalez,10,IID#f960abee19757250682083af0d9521fe,508-876-6738,1136.3
+03/12/2019,"USS Keller FPO AP 35616",torresjames@johnson.com,SKU#345f88ce26c8fc82bc36f330303c1068,Dr. Erin Vaughn,14,IID#ad734ee066c05bcff9781f0655740aaf,081-127-8773,1179.92
+03/15/2019,"39948 Scott Stream Apt. 886 West Lori, RI 33634",williamsdonald@doyle.com,SKU#7e5a19c335555b4fcaf22078f0a5e362,Kyle Foley,13,IID#586d751fc8afe0ca5f4fe3b51bb73edc,949-559-3651,1430.6499999999999
+03/16/2019,"61308 Michelle Alley Suite 962 Craigborough, TX 81225",fsmith@gmail.com,SKU#74e8b1cd148da88f0e902ef8bf327d36,Lindsey Sharp,22,IID#41cf29408319e291de958e22ac3dbf24,138-430-7779,2159.7400000000002
+03/18/2019,"50690 Timothy Curve Michealtown, NY 74411",walter94@gmail.com,SKU#c9580e2bd3527b65bf5b812b477ffe30,Robert Gilbert,14,IID#722673b3be330ed09e9618c984104761,257-723-2541,1674.96
+03/21/2019,"7390 Ashley Plains Wileytown, MI 08330",michellemitchell@hotmail.com,SKU#a13e1ab1656bcae9dbe8983cbd4e770d,Katie Oneal,16,IID#8bc5815718d600c93ad9a2ec80f7368f,109-543-3754,458.72
+04/03/2019,"658 Kyle Row Suite 256 Lawrenceshire, ID 36032",christine69@hotmail.com,SKU#b7dd5e0194ee0ac08a4b802cb73d867f,Lauren Morris,17,IID#b96d727987130e66ba904bd816e9f5b4,500-769-2859,1006.91
+04/11/2019,"7650 Parsons Ranch South Frankville, KS 09836",jenniferjenkins@spencer.biz,SKU#a9e88c2128e707d31a759333fd7b2bd7,Kenneth Edwards,19,IID#3b5585cde47681fcc7c5c5ffe7fb4c8c,975-580-1724,1361.3500000000001
+04/17/2019,"14855 Wilkerson Trace Apt. 691 Mariafort, GA 61260",timothyalexander@gray-becker.biz,SKU#b9205d5c0a413e022f6c36d4bdfa0750,Victor Smith,16,IID#3fea563cd35d710ea4bde7139107211d,016-969-3609,1115.36
+04/18/2019,"1555 Jessica Villages Apt. 500 Hornemouth, CO 74337",meredithterrell@juarez.org,SKU#ff9a2d3be0b1b401f5bbae30ab62a24d,Christina Salinas,19,IID#453e818b833fe3745b8ef658f2bd84d1,379-262-1920,2013.81
+04/23/2019,"7566 Angela Glens West Elizabeth, TN 41160",randy68@hotmail.com,SKU#c42dff9843dd12641d5ce4f2cbd71617,James Clayton DDS,23,IID#30537aa9863d2899dcc6afe926169423,839-184-0312,1047.6499999999999
+04/23/2019,"027 David Land Suite 245 Lake Peter, MO 68939",lisa01@taylor.com,SKU#862dec5c27142824a394bc6464928f48,Eric Bell,12,IID#38adf77a559802e0b3139b1f432e5723,802-767-1028,1411.08
+04/24/2019,"9065 Patton Parkways Apt. 196 Sarahhaven, NV 33663",kevin27@young.com,SKU#b3877309a41b936c83c6b26578f9ae2a,Tiffany Gonzales,17,IID#bf43820c7718264825b98d0bf12e51e3,773-737-4216,2029.8000000000002
+04/29/2019,"654 Jose Tunnel Lake Carlton, TN 66673",markporter@gmail.com,SKU#d585e8dcb6b35de1212e2b54b34c3eef,Cynthia Nichols,13,IID#3ae2d5c487bf14394574dc81ee92519a,732-119-4208,541.5799999999999
+05/09/2019,"686 Trevino Mountain Apt. 242 Lake Michaelstad, AR 88044",lorettahall@garcia.com,SKU#f56ff7c1261e30d124fc64fd279d8eea,David Banks,15,IID#7305182d9eea54c9f77c88c9ccb21b2b,627-440-7926,1787.25
+05/19/2019,"5401 Nguyen Causeway Apt. 967 Villanuevaport, IA 97358",mbrown@smith-murphy.net,SKU#81e4bf29a6552cb0df60980b937ed4a3,Jonathan Fisher,15,IID#d2417c37acce1f2f06398c3bd6d8cecf,736-266-1662,822.4499999999999
+05/19/2019,"USS Parker FPO AP 88165",kellyrobertson@gmail.com,SKU#bf619eac0cdf3f68d496ea9344137e8b,Stacie Keller,21,IID#7bbd9bda3c711e0da80c6c23f8a35e3c,971-299-5859,2186.31
+05/19/2019,"5869 John Hills Ortizbury, WA 21709",chadgarcia@gmail.com,SKU#e9d467e187231d4ba17391865b98b2e7,Jamie Monroe,17,IID#3aa95c1bc4c43a2e6afe33a73644572b,095-163-5950,901.34
+05/21/2019,"808 Singh Meadow Suite 701 North Markfurt, VT 23464",jennifer08@sanders.com,SKU#213e635dac590095b5681a944a5713a2,Tiffany Rogers,13,IID#34f179b0de7e3f7c166cac40947014df,153-866-3727,1648.27
+05/24/2019,"26533 Paul Stravenue South Juliehaven, OR 24174",williamsvincent@yahoo.com,SKU#7138c6b2c2310bdbe9ebd602467405c6,Joshua Bowen,15,IID#53aa34a677fa460a307962902700d2fd,964-949-4300,1316.4
+05/24/2019,"7858 Brown Plaza West Bradley, OK 47269",vazquezsamuel@williams.com,SKU#d71669de10ad49507e3593f5c6f6f8e4,Tina Kelly,24,IID#e4474484f409148ed0f6546c77e3f217,524-813-7387,3343.44
+05/29/2019,"812 Kaiser Prairie Suite 608 Thomasstad, PA 89184",millerbrandon@gmail.com,SKU#9a921c4351f15b4a634f0d4ba412952e,Jane Nichols,12,IID#18cea776c9540f9794b0278eab29a048,803-186-6320,866.64
+06/06/2019,"806 Robinson Wells East Paul, IN 88449",mbaldwin@yahoo.com,SKU#e7dd479dbec55c2f8de230625a87e3cc,Megan Simpson,18,IID#02ebf89492354f2f5ac9541f0f9fbff6,238-013-3583,1439.64
+06/07/2019,"353 Mills Neck Apt. 452 Sotoshire, WY 85472",stacy62@gmail.com,SKU#81cfb9735fea15ca8791a3c34a78d992,Rebecca Wood,9,IID#f755874f12f93335258957e75aeaac8a,953-174-1541,767.97
+06/08/2019,"7387 Miller Springs Suite 098 North Barbarashire, AL 89540",underwoodantonio@hotmail.com,SKU#0efce63cf4c085888a2772125dfe7aaa,Stacy Villegas,13,IID#f3b09ce0b216243d457b8d95f7a0d4d3,564-130-8513,1192.62
+06/09/2019,"9947 Perry Fork Rollinsview, IN 79951",rojascandice@gmail.com,SKU#05292ae368555ae1dbde635f071b0369,Nicholas Griffith,21,IID#50beb4d5201fc7b1cced63b7060d4418,574-665-1378,1994.1599999999999
+06/09/2019,"4677 Hernandez Extensions Lopezview, WI 94443",rojaseric@wilson.com,SKU#cb6e900d82976474d5ff525aa0ee2a77,Heidi Sparks,16,IID#774a1f43fa74cb292b9f92aa98f19377,656-589-1325,1443.68
+06/10/2019,"PSC 2969, Box 0544 APO AA 81348",meghan19@cantrell.com,SKU#6841a847b560d1a1483bdbd28d212ad7,Chad Kelly,14,IID#acebb81100a90988d3361476e04bb0c1,137-106-2971,438.62
+06/11/2019,"311 Andrew Burg New Jeffreyside, CT 14867",goodwinandrew@powell.info,SKU#2f2c09c2e2f5d90225d271bd431b9b94,Deborah Huffman,18,IID#811ef85f42d257be107493f219557e7e,332-130-6926,2587.68
+06/14/2019,"99908 George Squares Michaelview, MA 11627",williamperez@gmail.com,SKU#e33688bb1ac37935479d2776e748674a,Cheryl White,21,IID#cfc09c430d0dd873fc72d6fa15ddf267,090-960-9509,2907.03
+06/17/2019,"529 Paige Lane Apt. 386 Wrightborough, PA 52081",emilylee@gmail.com,SKU#0160ecaa22c2946cfa62fd8e689e1f82,Maria Fisher,13,IID#ad6b65b0551283d2a5d1e6d7d195759f,600-701-7481,1345.89
+06/19/2019,"6123 Lam Inlet Apt. 675 East Nicole, WI 75614",buchananmary@webb.net,SKU#a302a771ee0e3127b8950f0a67d17e49,Michael Henderson,7,IID#4c8bb497de30f651df24d98c796c702b,013-268-3702,642.39
+06/21/2019,"113 Smith Knolls West Erica, TX 24011",alopez@yahoo.com,SKU#06c61bcbf2ecd1295dd9a282ae253546,Michael Day,17,IID#13b83b2a5fceb3609c5e517593bb0eb1,213-264-7307,874.31
+06/28/2019,"018 Sanchez Squares Vincentbury, FL 92487",adrianabarrera@yahoo.com,SKU#c1a3cc5f89f5943de57237cbf8ce5527,Dawn Young,12,IID#8367ac85d24cea65fd76355ad016c29d,629-515-0583,782.4000000000001
+07/01/2019,"63402 Green Highway Suite 391 Port Jesse, MT 52712",dvasquez@wood-ortiz.com,SKU#3d55e1e012d3824e53e84d404a6e2f2e,Sharon Ryan,12,IID#21d1e7703a35af51cfc9ab3d4f2addc8,064-331-9216,1764.96
+07/04/2019,"7775 Mary Pike South Nathanchester, KY 20198",dmiller@lawson.com,SKU#36ab5bbc84127288a4bfbab259005f93,Adam Brown,14,IID#ce0cf11754176c17f9c8ad0ed8e94e9a,598-086-6700,412.02
+07/08/2019,"3057 Grace Ramp Suite 960 New Alisontown, ND 22020",stephenknapp@hotmail.com,SKU#93bb6b19b6b56758f3765896c721b16d,Haley Mcdaniel,21,IID#a2e7e0474a153615ddb5dccf0b2525f7,698-169-6465,864.78
+07/08/2019,"PSC 3137, Box 9160 APO AA 02679",wilsondennis@jones.biz,SKU#70a5b182abcabd5413836e3bf1a60299,Terry Hill,13,IID#99e0e8109bc440e73da8e1376f283dd2,018-226-0830,657.8000000000001
+07/10/2019,"8492 Sellers Throughway Apt. 221 Port Theresaland, AR 76056",williamsleslie@hotmail.com,SKU#0fe8b6ff202a2b826cb73fc50d089e9b,Hunter Ali,13,IID#f18c530affeb64387aee0c05a4bf39da,351-102-7721,771.5500000000001
+07/12/2019,"3000 Mendoza Lodge Lake Maryville, HI 26474",wmckinney@moore.com,SKU#850609a3835cbf281ef8afd0e655c1d3,Randy Smith,16,IID#0b4a1c5da55c0830747ec3829734bf95,780-141-1586,400.48
+07/13/2019,"480 Brian Village Scottside, WV 07559",williamspaul@henderson.biz,SKU#ec532088fb20a5ee48d6c8ad1186f05f,Julie Davis,11,IID#3a3b0fd3e36ebfdd67aaf9b7a8935fc2,124-357-4345,1693.89
+07/28/2019,"621 Joseph Stravenue Dawnville, SC 37974",victoriabutler@gmail.com,SKU#becc18c1df698952a593bf005c8e8ec0,Sharon Kennedy,15,IID#68ac1942b3a035b2c2a3002ed7c6ac24,158-246-1079,674.4
+08/05/2019,"15969 Barber Highway Suite 671 North Leonardton, WA 20483",matthew61@kim-hunt.biz,SKU#db10fd32bfe67918ed177579d4be9d76,Kayla Martin,14,IID#ecc4cc18495192c06b20730feb63a2bf,836-053-8467,815.7800000000001
+08/15/2019,"2231 Hoover Court East Taylorborough, WA 19551",johnyoung@carter.com,SKU#d13b5ffdeb538f15ee1d30f2788601d5,Nicholas White,10,IID#b54c79e3f85c7ecfde72fb24349f15e0,035-586-3712,392.1
+08/24/2019,"Unit 4455 Box 8234 DPO AA 01389",rfoster@gmail.com,SKU#ad4fd54959a373dca092b5333ae4310b,Gilbert Smith,18,IID#feb561998a2b7f9a5b2da3eee8a4aa04,409-237-5810,1126.26
+08/25/2019,"556 Jackson Squares Markside, ND 93989",ericsalazar@cole.com,SKU#946141e7eb0db0444844abd10ffec804,Kimberly Jones,23,IID#5e4f78144d93bfa5adbd6f0e96c1d004,875-536-2664,1188.41
+08/25/2019,"65749 Vaughn Rapid Apt. 868 North Kathleen, LA 65839",anelson@wilkinson.org,SKU#26ed62afc80812fb9b14ad6ca4f32b86,Carmen Gibson,15,IID#9a3dc0f844c1af720fd4246d74b2f979,584-901-2196,1120.5
+08/26/2019,"308 Farmer Cape East Leviview, VT 65753",brian04@hotmail.com,SKU#91e913c8353cd64e9a401b93b1071e15,Tara Walters,16,IID#0ac817e3dfae9fec85cef7a8b8714f13,666-622-7052,2493.76
+08/26/2019,"3300 Reynolds Motorway Apt. 387 Foxmouth, MT 78301",cheryl17@yahoo.com,SKU#3135bf07e7aa0e72fbde14d0411ca6de,David Rodgers,13,IID#20073c90a59847f002f7ea6658649a0e,238-005-4408,1937.65
+08/26/2019,"Unit 8785 Box 3068 DPO AA 25549",pricekristin@yahoo.com,SKU#299c365bb82b69e7f4312ad662845bde,Charles Davis,16,IID#fde337b907cdb74a21bfbdb8b8707ba2,945-648-7329,1272.8
+09/04/2019,"7682 Michael Drive Tracymouth, OK 04761",jwatson@thompson.org,SKU#f7aa819535e83034f3bb522cc8c6da75,Francisco Hart,14,IID#a7e3b2fb1c954dd4c531a047fd38d02c,538-647-0243,1579.2
+09/12/2019,"00340 Alexis Burg Simshaven, NC 97297",zthompson@howell-young.net,SKU#22577911e88af39f79409e6de8eed4d9,Kayla Fletcher,17,IID#324a2f27eeb526c2ce94493b350c5722,351-242-3408,1559.92
+09/13/2019,"9792 Alexander Station Apt. 582 Lake Tommyton, IL 49349",matthewlee@castaneda.com,SKU#a302a771ee0e3127b8950f0a67d17e49,Tiffany Thompson,10,IID#8e4caef2c4e706f552aa379ef0cc2740,330-251-9668,917.6999999999999
+09/13/2019,"87252 Gabriel Meadows Apt. 740 Andreabury, AR 12520",morrisryan@smith.com,SKU#6d0bb00954ceb7fbee436bb55a8397a9,Shannon Hensley,20,IID#f9d58d0823c054b2e0ce2bb63a4fac25,190-752-4644,1695.6
+09/15/2019,"PSC 5767, Box 5687 APO AA 92019",eobrien@jones.info,SKU#efa94f64068c70cdf0270381ad3cb34d,Cameron Mckee,7,IID#d41a08c101fb2d248e0664d59f369902,949-257-7033,332.84999999999997
+09/18/2019,"09461 Madison Crest Suite 795 New Terrymouth, MI 21680",eric72@valdez.com,SKU#aceb486e7e4b2d2f1c5f2328b503502b,Michael Singh,21,IID#11c0cdb90f4e9cb1c44c73d4e94585bd,223-552-9857,3051.51
+09/22/2019,"5572 Ricardo Rest Apt. 148 New Katrina, NM 87014",tonyarodriguez@yahoo.com,SKU#88a4ef65b666e053c28c9e023d8579f5,Jamie Oliver,14,IID#ca9e7fdc486bfab27f61d928e06a92f1,500-034-3989,1757.98
+09/25/2019,"7984 Williams Creek West Ryanfort, WY 05193",ssharp@yahoo.com,SKU#fb3c6492a06de877a1137af9b2e852d7,Julie Smith,18,IID#dbae24d30c4517460f15a8023fe74f27,058-891-7690,2584.44
+09/27/2019,"753 Nguyen Valley Garciachester, WA 45342",gregoryleslie@smith.biz,SKU#53553242d57214aaa5726a09b05fe7bc,Jason Bowman,20,IID#584f1b273602146b3870064dec36ddbd,477-033-6169,885.6
+09/30/2019,"418 Ford Landing Lake Chelsea, MT 37531",cassandra76@gmail.com,SKU#d310a40483f9399dd7ed1712e0fdd702,Devin Howard,15,IID#4019382dcd9b179760d39a9f82a60138,173-267-7859,1028.1000000000001
+10/11/2019,"958 Taylor Loaf Elizabethberg, DE 90235",rhamilton@thomas.com,SKU#32b5e7886d1928c44fadc040471cc550,Connie Odonnell,17,IID#7cc5f29067138f20570cc0097eb1edad,712-871-4742,1282.48
+10/13/2019,"1932 Victoria Trail South Catherinebury, GA 78648",maryrobinson@gmail.com,SKU#6ac0a150c33a548595395c755a7ebba4,Daniel Alvarez,16,IID#54c15d79c112a8ec3e19be5d264ca042,315-840-3857,975.36
+10/15/2019,"6743 Eaton Spur Suite 421 Port Daniel, GA 74600",russellemily@hotmail.com,SKU#dc63172a798a0445eb28d0faa053ef42,Michael Morse,18,IID#d27ceccfc488bee29a5b11e1f9c2899d,727-618-6794,936.36
+10/17/2019,"45899 Porter Glen Apt. 876 Reedview, IA 58363",perezwayne@hotmail.com,SKU#eaf25f841c19e96c5ad6217e6286e28b,Heather Gonzalez,9,IID#a8b95f259061b0158e136fc1fa5fa4ca,096-543-7564,558.1800000000001
+10/18/2019,"8941 Green Falls Suite 625 Conniebury, IA 78461",sdecker@hotmail.com,SKU#bceef68cb887519b438771840de07a60,Daisy Reyes,24,IID#a522897a2b9bedb9297c7e5b976e7fbe,329-117-4454,2495.2799999999997
+10/20/2019,"36726 Kyle Vista Suite 752 Leblancborough, ND 80233",katrina60@cole-lopez.com,SKU#d3bce61532ced65bb969696f79f01172,Maria Mckenzie,16,IID#a81e9839d4d5919f5b4103726eb604e0,045-246-1381,2221.44
+10/22/2019,"6878 Edwin Groves New Nancy, DC 49122",jerome36@lee-porter.com,SKU#b3877309a41b936c83c6b26578f9ae2a,Jason Copeland,22,IID#92c6126629ec0da98b1ad6ad48b783d9,422-092-7816,2626.8
+11/04/2019,"93004 Garcia Ridge Apt. 279 East Lisa, SC 91278",daniel71@macias.net,SKU#dc69f44be7d9431c3fc97a266c2c147b,Samantha Sanchez,17,IID#d21bd49f94145460ebc125ebcd0c1e6d,756-572-4750,1472.37
+11/13/2019,"34940 Foster Route Suite 218 Greenstad, IN 55003",bethany52@yahoo.com,SKU#d26937a0a615266ccd9fb199e7fb7fb9,Brent Edwards,19,IID#0dc11f4eec13b1f4fe151708155034e3,631-676-4949,1758.83
+11/17/2019,"7231 Michael Club Tiffanyhaven, UT 99932",hendersonsara@hotmail.com,SKU#c1b89674c43a8c212dafc0478159b1b2,Ana Adams,14,IID#7116b880a6e9a256907a46372899bb4e,094-841-4979,889.2800000000001
+11/22/2019,"14091 Howard Extension Suite 862 Kevinton, MD 38969",howardherrera@lewis.com,SKU#db6652f211d619f7a7f11b7f1fa267ae,Theresa Wise,18,IID#9d512be02ca5762e2ea057ec218ab82d,679-623-7169,2944.62
+11/25/2019,"66099 Robert Mountains Thomastown, MI 56311",bennettdavid@hotmail.com,SKU#7ec690b9bbbb7ed4aded30cfc17ef546,William Murphy,13,IID#b190921dedb56f7ac1e4c1dc9e27c8a7,597-387-4236,1594.32
+11/27/2019,"6626 Padilla Court Suite 009 Lake Michaelville, GA 18266",samantha59@hotmail.com,SKU#6130cb9a0d04704aa199d1e67a7b528c,John Smith,18,IID#87ea731701cf22f53f33fceac62d85b6,523-645-1383,1735.2
+12/01/2019,"21525 Aaron Neck Suite 211 South Leah, DE 87095",kvelazquez@gmail.com,SKU#1ef0dd39f3e292cb93ad6ffaebe33c83,Christopher Mckee,10,IID#6e715ebccd73fbc2fe7f0cd4d2eb639f,402-431-0208,553.8000000000001
+12/01/2019,"USNV Rogers FPO AE 74033",lindsay83@yahoo.com,SKU#a6e63d588ff7c3fbb8704fa66bbd5fec,Daniel Mcdonald,16,IID#2b6a55d554aa2b93f0052cb34e12fee7,664-684-8587,1618.56
+12/01/2019,"932 Jennifer Junctions Jodiport, IN 25699",scott15@gmail.com,SKU#5632090e276f96fe6f833a2e0f75cdf9,Thomas Strickland,14,IID#953aae1bb50b0d3dfc905656765f6cb9,968-066-4970,2162.2999999999997
+12/03/2019,"USNV Bell FPO AP 70105",idillon@downs.com,SKU#8790564f0bd9d9cdd1bf9b83b761e607,Jacob Mills,20,IID#85f49928bb566dc069a80b4d9006ddb3,775-534-3219,2706.2
+12/06/2019,"325 Christopher Causeway Suite 297 Markburgh, WI 40158",jennifercollins@graham.com,SKU#60c6b126049a35e50fffeadf17279275,Ricky Thompson,21,IID#11a9e362a6f6b646a948d8d99d75b3a6,057-529-7139,2661.75
+12/07/2019,"7273 Duarte Burgs Brendaland, OK 34902",pclarke@ward-miller.info,SKU#93b885adfe0da089cdf634904fd59f71,Andrea Perez,13,IID#0ae8a7e610c5f5446f68e221944170a6,981-523-1447,522.86
+12/08/2019,"24975 Young Points Kevinmouth, DE 47206",mossdonna@bowen-waller.biz,SKU#c7ea739796f77dea0edf2dcebe980a6b,Shawn Obrien,18,IID#8957d928e89d05e487d4bb0aeb1ba730,292-532-6975,2197.44
+12/11/2019,"6189 Shannon Forest West James, WV 74970",kristanguyen@scott-lawson.com,SKU#f5e502b5576c2ceb07f0f03afdede1f7,Adam Williams,14,IID#683622b964c7596b8d3a155a40f5b37a,224-155-6159,1439.76
+12/15/2019,"31365 Vanessa Brook Annastad, SD 39700",debbiedavidson@yahoo.com,SKU#97282b0e263c50158e7a172121775f44,Autumn Walker,15,IID#f94167f6807a9da78db73fc966810551,870-127-6876,1878.45
+12/22/2019,"05618 Kristen Meadow New Derekberg, AZ 41024",wesley84@smith.com,SKU#905a0b9a5456ee962223033473666be3,Debra Benitez,14,IID#5811b4a6a63e7877008df1599f0e3a64,524-635-7847,1592.36
+12/30/2019,"035 Rebecca Skyway Suite 132 West Tanya, VA 87988",meyercody@morgan.com,SKU#a1c8dcbd11c543b1e52a5ed5eab69994,Diane Mcdaniel,21,IID#8fa06992ff2deedc2187ed62c5586d13,846-151-9993,2306.22
+12/30/2019,"06004 Danny Fields Suite 403 Lake Amytown, HI 04095",cherylbaldwin@schwartz.info,SKU#38490d424e2b4ffc307b6b1a17c4b560,David Smith,16,IID#1739b64d8dcf73135814eb60666e1a78,638-954-2735,716.32
+12/30/2019,"287 Francisco Club Normanshire, NV 57438",emilyfoster@hotmail.com,SKU#29003687900cad69c06a7907f2738e79,Christopher Owens,10,IID#85543de36dd75ec02b3b50fdc1204164,094-081-9403,1381.0
+12/31/2019,"641 Brittany Neck North James, VA 66010",ebrooks@white.com,SKU#fa75a367ca8b7688d1959e228aafd946,Michael Martin,17,IID#5a0a9a24e678ce9b21159ca0d549359b,992-932-9447,722.84
+01/01/2020,"9063 Moore Rapid Apt. 563 East Katherineside, HI 80818",craneroberto@lin-cohen.net,SKU#c39b7233fa0699b3cd333f9f0be738e4,Marissa Gray,22,IID#fce5985e17f5849e1e3a6afc294c1ca5,286-708-8458,3013.78
+01/02/2020,"84763 Rachel Mission Apt. 281 Jessicachester, VT 44256",jjones@smith-jackson.net,SKU#c3664b673d90c603447db7c2d2bbc5e7,Victoria Taylor,14,IID#f4d80ab3c68434d01a374ba13e6830d6,731-568-1259,1231.72
+01/03/2020,"990 Frazier Springs Gregorymouth, NH 38678",rileyrobert@williams.biz,SKU#11be6f5a9a46d74dfe7fdee344937b9f,Elizabeth Mack,11,IID#9c59070bca8bb4e8b8fc758b2a9dde6a,434-189-9731,632.28
+01/07/2020,"632 Jennifer Radial Apt. 772 Stephanieshire, KS 39320",fclark@dominguez.info,SKU#e9212713a55c3fce07707c9adb0809b3,Robert Long,12,IID#40f08b8199a481e1b4fa4cd3169018f0,331-137-5622,927.72
+01/10/2020,"330 Angelica Forges Suite 077 New Shawnchester, NV 68541",ronald26@stephens.biz,SKU#0efce63cf4c085888a2772125dfe7aaa,Dr. Kristen Mccall DDS,11,IID#ef5d74b6a1eb16d3a62072d54de4fdae,444-046-0656,1009.14
+01/22/2020,"096 Charles Causeway Lake Marcus, NM 94677",ytran@hotmail.com,SKU#59c502133813ee6a3282cb7fbedcc968,Brad Burnett,22,IID#6a76c1012f6525de2baa0a7fffad4ea0,471-489-3626,1363.1200000000001
+01/26/2020,"01335 Bethany Mount Apt. 689 Port Joshua, NM 25277",nguyenrobert@gmail.com,SKU#de6c1bfebf1154bddffd37653abba499,Kim Kent,20,IID#40af9ff966b11f40687c8008bf237781,539-296-2718,622.2
+01/26/2020,"8492 Sellers Throughway Apt. 221 Port Theresaland, AR 76056",williamsleslie@hotmail.com,SKU#ab40b115ce85a866a20f7e9b7e7a7e0f,Hunter Ali,11,IID#5b3fdf3be425d076e6d925412b64f0f4,351-102-7721,805.64
+01/27/2020,"9511 Robert Spurs Apt. 462 North Kelly, NE 67987",cbishop@garza-perry.info,SKU#a302a771ee0e3127b8950f0a67d17e49,Christopher Nolan,26,IID#e433ef8686caea8e03128330a1ca0398,326-855-2727,2386.02
+01/30/2020,"569 Gina Well Suite 413 Audreyfort, WY 74931",susansimpson@willis-thompson.info,SKU#79ed04c1815f864f5aef3c738e882632,Jeremy Padilla,18,IID#64b3f17620a70fbb15fc6e714c3404ce,284-790-5543,1023.48
+02/03/2020,"877 Holmes Plain Suite 835 New Kathryn, NM 82795",lorismith@welch.com,SKU#6432afb58141f16a4a0c1893b2bcd695,Daniel Young MD,13,IID#8de919e2e1a67a5bdbede8988f416299,246-005-4924,1457.95
+02/07/2020,"7484 Jackson Islands Suite 239 Johnsonchester, LA 11746",jacob00@hotmail.com,SKU#fa8715078d45101200a6e2bf7321aa04,Adam Cole,13,IID#3877eebc258e26b68cd71d6d783e5f04,623-302-5588,1486.55
+02/16/2020,"282 Erin Skyway South Jeanetteport, MT 32663",tinajohnson@mitchell-craig.org,SKU#b9f4a26fe6ff491d6b6f51544f2fe131,Fred Austin,19,IID#0b10283acd6ec02c176c42b9599fc6c6,411-572-6807,1276.9899999999998
+02/17/2020,"12859 Antonio Shoal Perezfort, FL 94170",ileblanc@walters-alexander.biz,SKU#915efde7e9cc34efd7d3feb1c3aba400,Joseph Flores,14,IID#bb74b061ea3ab22393490c51a3e705d8,917-130-7906,1058.96
+02/18/2020,"0736 Williams Loaf Mcgeetown, KS 84124",twatson@peterson.com,SKU#5b27a78cb61feef49e37aa0a1ccda7d1,Angela Hicks,20,IID#c9105db71aea2763fa7e85b5715d7b9a,659-699-7593,1287.4
+02/22/2020,"020 Hart Walks Suite 097 Jamesview, FL 73319",kknight@yahoo.com,SKU#2a78f84427d1d591409740722e60d793,Tina Fleming,23,IID#d57b3c27b59a13467d586fe8a7df3b9f,869-545-1321,2441.68
+02/27/2020,"56024 Hudson Station Lake Katherine, OR 60049",larrycohen@williams.com,SKU#c31dfcf948d8fbaffb2fc39e18001ea1,Jenna Kelly,26,IID#78b205d6c05c2dc889d92673471abadf,143-670-4258,2799.16
+03/05/2020,"959 Calvin Club Suite 269 New Davidborough, PA 52578",dylanramos@hotmail.com,SKU#2d14244e3f3a05e2d572a13ab80b7761,Alexandra Smith,15,IID#ff63af944c5995392968d4d150298e46,156-716-4946,1736.7
+03/09/2020,"37859 Nielsen Extensions New Elizabeth, AL 46898",zgraham@lopez.com,SKU#efa94f64068c70cdf0270381ad3cb34d,Michael Wiggins,20,IID#c7bb5ab6fcedf4fb9b9ff639ccbb9044,158-443-1961,951.0
+03/16/2020,"USS Villarreal FPO AE 06396",james55@edwards-velez.com,SKU#fbaf48ec981a5eecdb57b929fdd426e8,James Nash,18,IID#286d337a7c79a8eb4d2ba534799ff189,581-635-9984,2669.22
+03/20/2020,"566 White Alley Apt. 468 Port Jasonland, NY 92349",rogerserica@johnson.biz,SKU#b54b9c5d611b062aea9d8ec0d192335d,Bridget Torres,13,IID#fc7df746f0a7d5d9546586e91842c641,583-628-8449,2092.09
+03/20/2020,"686 Trevino Mountain Apt. 242 Lake Michaelstad, AR 88044",lorettahall@garcia.com,SKU#bec4473fc43b77e28e60f89da4e29c00,David Banks,19,IID#0c661bea95fc228ff4e64241ef25c3ac,627-440-7926,2802.5
+03/21/2020,"22384 Burton Turnpike Apt. 703 Port Elizabethmouth, OK 90733",gharris@figueroa.com,SKU#b252d37ad6eb57bc4c866bc135cce6d9,Holly Baker,19,IID#99e4b2ea49f34f3ada79f6aeb6386fe6,361-852-0549,2654.4900000000002
+03/24/2020,"USCGC Mccarthy FPO AP 05658",stevenmartinez@gmail.com,SKU#efa94f64068c70cdf0270381ad3cb34d,Brooke Allen,14,IID#f3e1dfb0512f544f4ab94e33d7c62793,262-392-4989,665.6999999999999
+03/24/2020,"09461 Madison Crest Suite 795 New Terrymouth, MI 21680",eric72@valdez.com,SKU#3855a48bda492173d92ea60e14af2730,Michael Singh,15,IID#88ab1609929f205487a3ef6fa138ea12,223-552-9857,916.35
+03/27/2020,"199 Mason View Suite 539 Brandonbury, OH 37209",john36@hall.com,SKU#3e0a582d1ad7720a269e3480f0740d40,Matthew Scott,9,IID#883eb7526feb44ce650dc112105246d6,776-058-1145,919.53
+04/06/2020,"512 Jerome Run Apt. 041 Greerfort, WA 60640",christinereynolds@gmail.com,SKU#8ef3a35df8c4bda3d540914558124d67,Sarah Hamilton,18,IID#6020c215c865c38c4f06d28de6ad5e76,631-044-0070,1523.8799999999999
+04/06/2020,"70252 Moyer Keys Joshuachester, VT 85468",simmonslogan@davis.com,SKU#3db1245b1350a34c1a8aa762299dd415,Ernest Bates,17,IID#a25fb5527b980191d66d9a05d0047a5b,178-308-9589,1639.99
+04/09/2020,"43044 Michelle Parks New Bethanytown, NJ 99313",katrina29@yahoo.com,SKU#e6b62b76fb2eb2a0e0adde0c067da680,Jessica Williams,12,IID#87c518c06dbd5244a63cacb7c311f0c3,499-896-5202,1170.1200000000001
+04/13/2020,"074 Conley Trace Apt. 903 North Troy, KY 62919",nicholas32@yahoo.com,SKU#17536ccbe836e9925123bcb6f1dae7a0,Jennifer Wagner,8,IID#f40e5c991cb601a9a3f24d012d8c64f2,341-911-4826,1103.28
+04/19/2020,"40220 Paul Burg Apt. 352 East Sheriton, VA 99423",smithfrancisco@west.net,SKU#402ffe63deabe286f6c3895b574fa973,Elizabeth Johnson MD,10,IID#e36a5e63d9d1e7c8cbd90e56726317f3,134-766-0482,1033.1
+04/19/2020,"74658 White Light Apt. 232 Nunezside, CA 45370",littlethomas@gmail.com,SKU#f448a877f3d3f4b40a15fca17c62a2b5,Ricardo Butler,16,IID#72f6db4566de5f8d5eda2631f0147053,594-115-6845,1572.32
+04/19/2020,"7371 Lauren Green Lake Brianstad, WA 65163",juliejones@rogers-gates.com,SKU#39dbf807a41e5e4e63b59c9535c72eb7,David Andrews,26,IID#3bca25921d250d7c740077410152038d,873-305-1572,2374.06
+04/23/2020,"732 Christopher Prairie Apt. 903 West Jose, IN 03166",dmonroe@hotmail.com,SKU#024cf4b49c3c023c7834a1c0e0da523b,Lori Foster,11,IID#25a2c75cdf9f40f80f71748909257910,627-163-0926,749.54
+04/30/2020,"9792 Alexander Station Apt. 582 Lake Tommyton, IL 49349",matthewlee@castaneda.com,SKU#d567f75fba75ba13d448b5deaa208e67,Tiffany Thompson,13,IID#e4965f6920c6f76d93cc8f84b6f6f64a,330-251-9668,1603.94
+05/01/2020,"012 Austin Ford North Kelly, AZ 92885",john15@brown-reynolds.com,SKU#0a1d79402574d8958b3bf6006ffeb52e,Timothy Wheeler,24,IID#f285f31a68a2b74e918d597243296205,852-242-6616,1841.52
+05/02/2020,"693 Joe Forks Apt. 941 East Kristenburgh, DC 32468",ecopeland@hotmail.com,SKU#9ed1bb09f1363bd8feca8a5702f45b5b,David Kidd,12,IID#671c9c2726321dd98bf73a706f73488b,359-478-9332,1508.8799999999999
+05/23/2020,"3790 Melissa Hollow Rayton, WI 52224",chamberserik@hotmail.com,SKU#be9a60d34f059d2adb8de94bcc620af6,Wendy Hernandez,18,IID#44335cd360160bbdeb441228b3b7a22e,536-635-0044,871.5600000000001
+05/27/2020,"1360 Velasquez Views North Cheyenneborough, KY 62143",dunnanthony@rodriguez.com,SKU#81e4bf29a6552cb0df60980b937ed4a3,Walter Henderson,22,IID#307618cc77606f2a2ea15c1243e11421,975-194-6140,1206.26
+06/01/2020,"1145 Bush Forks Apt. 954 Laceyborough, NE 69673",kaitlin79@hotmail.com,SKU#3c2bfeac2ec39c652fad00241bdf552f,William Hoffman,22,IID#ef1c80bdf5c80c045424dc127400a8b0,906-901-0294,2532.8599999999997
+06/09/2020,"736 Matthew Islands Suite 099 Haydenburgh, WY 63262",rachelwalsh@hansen-riley.com,SKU#f4332cb4ea9179c3b4d5f039fe518947,Brandon Nelson,14,IID#8790a3ed6b53f5f20da4958ae89d293f,715-846-0605,1155.98
+06/12/2020,"0016 Ellison Spur Suite 175 Josephville, CT 56556",cwilliams@mitchell.org,SKU#28840766f7d339b8464bebe7527f2bf4,Marisa Perez,14,IID#481a054863875b0cb66ff5002cbb3bed,686-148-4914,1086.96
+06/16/2020,"4740 Courtney Motorway Brianburgh, LA 12991",michelle20@gmail.com,SKU#eb8faf6b2c22464c49898a38d634afe4,Jose Jimenez MD,22,IID#57141fc1d2da80daec0400310937db2a,960-956-9570,2640.2200000000003
+06/18/2020,"77820 Maria Highway Lake Stephanieport, HI 69303",carlosedwards@hotmail.com,SKU#714648d2aa2d73c96e0bf598fe1947a3,John Johnson,17,IID#75281e2801427f4125841d64857a1ab0,599-015-6489,577.1500000000001
+06/23/2020,"3855 Shannon Rest North Victorland, DE 72436",samantha25@yahoo.com,SKU#4f8314c91ac9fe6397eafe6355213999,Amanda Rodriguez,21,IID#96fa3a4d5865e32910fc2d31cfda4b56,571-087-5085,1171.17
+06/27/2020,"9960 Ramirez Radial Suite 317 Danielleton, CO 02321",brandi21@gmail.com,SKU#425ab24e1b4c711c09b71f1509450c3b,Marie Werner,12,IID#5867d4b68563fdf0dd8bc3dda935ba95,512-745-5359,1098.1200000000001
+07/05/2020,"303 Cherry Islands Barrville, UT 42796",bonnie77@pitts.biz,SKU#53549731972ee564bcb8ca0cc2ba60b0,Brandon Turner,15,IID#f389155664b226f2f19f37ab0f21e783,461-075-3536,2103.0
+07/07/2020,"08520 Nguyen Inlet New Jasonland, DE 17110",lisa37@hotmail.com,SKU#7228a8ed79083f23b1c166934d53ce57,Darren Cook,17,IID#5eea70f37e0f17db13bb8bfb3f4f49ad,062-316-8584,1255.96
+07/08/2020,"116 Joseph Brooks Apt. 730 West Shaun, RI 05727",aaron49@yahoo.com,SKU#d567f75fba75ba13d448b5deaa208e67,Sharon Owens,12,IID#45ccea49df3c4c40f57895553319c5bf,726-665-1476,1480.56
+07/19/2020,"86007 Anderson Club Sarahmouth, IL 09595",michael78@nguyen-hughes.com,SKU#5d2a33958ebe530732fd9c258850c5aa,Christine Stanton,24,IID#0c2dbc32a1b87bc0173651f11f5ce76d,694-943-0599,1303.92
+07/20/2020,"507 Katherine Lakes Apt. 725 Emilymouth, CA 34183",erin90@young.com,SKU#09bd5191335ad3d5bf5a3b5e1cf86537,Diane Daniels,19,IID#0f6988640bac0fabc42344a96b8d4e04,706-848-0847,1880.2399999999998
+07/20/2020,"523 Crystal Isle Apt. 264 South Lindamouth, SD 21910",opotter@franklin-parker.biz,SKU#2742e1f05ea7d3e8fd65942fe06c2f7f,Steven Preston,13,IID#c48a36e0698b690bc2e5bdd0cbf52cfb,469-739-2596,1722.89
+07/21/2020,"Unit 3685 Box 1238 DPO AP 77941",zweber@holmes.com,SKU#5db52bfcf09a4b856640213f02b081ef,Sharon Page,17,IID#daa53fb7360100895da3da0e72adfb33,070-613-3201,2120.75
+08/03/2020,"14513 William Meadow Kathyborough, GA 03469",rosesusan@fox.org,SKU#6cc45e0c18bfee68dc63d2d31524f9c5,Brenda Smith,7,IID#7ff2e1c83d0dd5ff4faf5e717cb14a92,503-697-1294,624.26
+08/10/2020,"65289 Vaughan Points East William, UT 37274",csanchez@wheeler-ramirez.org,SKU#905a0b9a5456ee962223033473666be3,Ashley Gill,8,IID#5eda1572b87ea22aa3966636a0edd7e4,498-593-7850,909.92
+08/11/2020,"USCGC Mitchell FPO AP 06875",anneblackwell@escobar.com,SKU#d4c34d3b111e3d28e6c701d7c3037025,Mr. Daniel Kemp,15,IID#6e0730774e081e46bba2c07a051ecbf7,567-956-7286,560.1
+08/11/2020,"7315 Rodriguez Bypass Suite 055 Danielchester, ND 12313",kimberlygomez@davidson.com,SKU#1681ffc6e046c7af98c9e6c232a3fe0a,Walter Wang,13,IID#58891cf8b3ce9de4cbb928787bd2813f,694-027-7349,607.36
+08/12/2020,"55232 Alex Curve South Heather, DC 98356",michelegonzales@osborne-jackson.com,SKU#348a9791dc41b89796ec3808b5b5262f,Alexa Rivera,14,IID#c5bd42812c2c730b7b684f5f0939435a,154-982-2263,682.2199999999999
+08/15/2020,"32801 Cameron Villages South Rachaelchester, MO 72930",marylee@gmail.com,SKU#6ad4f71d2aa8b7cd6be9cda87d146b32,Gail Owens,19,IID#e528bcdf2097e7bd22af3ebb82e00129,690-818-0547,1551.16
+08/16/2020,"32745 Jones Valleys West Christopher, TX 01496",mirandakaufman@gmail.com,SKU#3dee8cafb2684396b42a08cc5dd2d132,Tamara Garcia,10,IID#4d80e1ef24d197416785bd82a721d13d,930-398-0837,1060.6
+08/18/2020,"31942 Brian Walks Apt. 778 Howellmouth, MT 14107",michael24@perkins.com,SKU#7c8bf78f7ae1d6d9b0a43d1620a126b1,Reginald Baxter,14,IID#cfd3c4aa0da78eeea496aac915955eeb,393-263-6401,1515.64
+08/21/2020,"75020 Alvarez Tunnel Suite 249 West Heather, NC 46782",carriewelch@hotmail.com,SKU#e9ec8abba3c25796e027afd2cd2ef77d,Lori Riley,13,IID#8aa9bd62be9253a6c4b399105c3817fb,405-929-0514,1535.56
+08/21/2020,"PSC 7057, Box 6975 APO AA 03497",radams@smith.com,SKU#6f6b5e30af6a9e64b7b6a19c39de7e0c,Rebecca Randolph,17,IID#bb53fcef5acdb49cbaad206483397b02,207-552-8693,1905.87
+08/23/2020,"2247 Andrew Rapid Suite 675 North Ashleyview, MN 19167",cindysampson@hotmail.com,SKU#97d6d52a254a9cbd2bad939ce1926af8,Kathleen Roach,9,IID#dc44d848385b9c87c87850c4b4c533c6,532-394-8124,889.3799999999999
+08/26/2020,"843 Ward Lodge Suite 873 Andersonton, NY 41742",nicoleclark@yahoo.com,SKU#b89c9e6a775567fb289ff3a4e15e9f5a,Steven Sullivan,11,IID#6ec43ee5489a07e0256490565bfe4120,727-422-6975,1139.49
+08/28/2020,"293 Wolf Groves Port Amber, LA 73608",nielsenashley@burns.biz,SKU#149e9d3008eb45be7b0b57c19065d57b,Teresa Bryant,17,IID#b6749f96b7402e0b14dba7b54bf02e34,538-934-6879,1602.93
+09/05/2020,"USCGC Jackson FPO AE 27916",annaflores@holt.org,SKU#2f6064003b888e403627e493532fc751,Phillip Lee,14,IID#a222a78abae6d403e9969b487de6dfb4,554-741-1699,1409.1000000000001
+09/09/2020,"722 Fuentes Radial New Richardland, AL 24843",smithlaura@sparks-fletcher.com,SKU#ecd0f02b413c556a1402880dd4e4fe79,Kimberly Morales,13,IID#42d5290a80f8237822c09c45e37b2e9d,181-575-2420,1544.3999999999999
+09/13/2020,"116 Joseph Brooks Apt. 730 West Shaun, RI 05727",aaron49@yahoo.com,SKU#b07d3123f68a0e9f972ab60b77563b33,Sharon Owens,26,IID#715ff74e19cd454a8a9cf0af7ebebfba,726-665-1476,2939.04
+09/22/2020,"7696 Lisa Track Apt. 724 Buchananberg, OK 27532",cortezlisa@yahoo.com,SKU#f9829991257177c85ba5bdeb6774126d,Angela Houston,17,IID#eeda89dbdb755c679cb654964a7d95dd,558-880-7585,871.93
+09/26/2020,"208 Wayne Spring East Loganton, OR 16032",gberg@yahoo.com,SKU#530760e26291763b437871583c568557,Cindy Hughes,21,IID#e4af23388055927fbad69da5541dd955,927-432-2765,2350.11
+09/26/2020,"6345 Smith Crossing Port Alexander, CO 10294",lauracoffey@hotmail.com,SKU#5154ac663d45cfaf699056fe8cdd3085,Holly Campbell,13,IID#cbd0928fc6bf409378769056f1eb1890,754-269-6642,657.54
+09/30/2020,"990 Frazier Springs Gregorymouth, NH 38678",rileyrobert@williams.biz,SKU#7319468847d7b1aee40dbf5dd963c999,Elizabeth Mack,16,IID#85feed0850f38d58bf21d094e50f1eb7,434-189-9731,1602.4
+09/30/2020,"19165 Hayley Landing Suite 395 Markberg, NY 38243",rebecca44@hawkins-rogers.info,SKU#18449c1cf0be942485227a9a3007ae3f,Nicole Nguyen,12,IID#f6a59b2bfdcc02b60c408cc41f893861,345-955-9923,789.48
+10/03/2020,"1374 Elijah Branch Suite 965 North Jennifer, OK 16963",holly73@dominguez-williams.biz,SKU#39dbf807a41e5e4e63b59c9535c72eb7,Benjamin Wright,19,IID#04e5ddb0a23e1514459741586fe69c22,461-200-7360,1734.89
+10/03/2020,"95282 Michael Glen Suite 216 Jamesfurt, AL 61002",sheppardcody@meyer.com,SKU#2a78f84427d1d591409740722e60d793,Elizabeth Lawson,16,IID#4f296828a68160b4c1cd3ba12510db5b,366-351-7608,1698.56
+10/06/2020,"98067 Griffith Estates Apt. 568 Gravesstad, MO 86330",scotthernandez@gmail.com,SKU#ec532088fb20a5ee48d6c8ad1186f05f,Nancy Hernandez,17,IID#7025f50bb30787660229753dda36cfd2,484-926-5632,2617.83
+10/06/2020,"29302 Jacob Ports Suite 998 New Amyport, NV 48852",hjackson@fox.com,SKU#6cbbe3240a203b0ff387d9bbdadd49ef,Brandy Clark,12,IID#91894e2874c9d0c9dc826bf2c75b052f,853-447-9176,712.4399999999999
+10/17/2020,"19165 Hayley Landing Suite 395 Markberg, NY 38243",rebecca44@hawkins-rogers.info,SKU#eca0470178275ac94e5de381969ed232,Nicole Nguyen,10,IID#42d7e222930adcaf4c30a88867fb1ad9,345-955-9923,1201.6
+10/20/2020,"851 Terry Station Apt. 493 South Kelly, VA 79467",mindyguerrero@jimenez-simmons.com,SKU#f7e545e231ffaaea63416f8e688e0104,Matthew Zimmerman,21,IID#754e9a5bc7c35cb4f2a92c1227b69ffa,092-542-7948,2343.81
+10/21/2020,"59297 Jennifer Crest Suite 909 North Loristad, KY 95672",regina40@yahoo.com,SKU#491d4857e02191839fe07d27d2aac519,Christina Wilson,12,IID#de5a9603784cb6b550bfebd08bea156f,663-090-0220,618.48
+10/22/2020,"066 Jones Crescent East Jose, AK 56469",lynndonald@kelley.net,SKU#f2f0de3c63af000f2f90354e7438afc3,Elaine Bryant,9,IID#4c77a2feb1514f4542663f6e4b253266,912-695-7252,1168.47
+10/28/2020,"52369 Merritt Highway Suite 188 Millerborough, IA 73254",kingnicole@gmail.com,SKU#e998be3d3bb15661763e4ff1e1c9a3e7,Michael Carey,13,IID#58075ee26efd609b38b76b195ed3f80f,915-019-9522,1360.19
+11/10/2020,"23934 George Groves South Theresa, IL 36208",uwilliamson@bryant.com,SKU#9ece66c3a32bcd82ae2e442953827d65,Ryan Solis,17,IID#2c95592f60bd2b72104910720d8b9e11,632-076-4999,2506.99
+11/10/2020,"2801 Chambers Dam Davisburgh, GA 14593",parkerpamela@bates.info,SKU#3449c9e5e332f1dbb81505cd739fbf3f,Shelby Smith,16,IID#2d48258fa4e07286b9dfe53c762848d3,328-613-3110,1866.56
+11/11/2020,"959 Calvin Club Suite 269 New Davidborough, PA 52578",dylanramos@hotmail.com,SKU#53549731972ee564bcb8ca0cc2ba60b0,Alexandra Smith,18,IID#4951d4273c17dfb7e3424ef756d77eb4,156-716-4946,2523.6
+11/25/2020,"87882 Matthew Forge Lake Jenniferton, TN 61897",thomasnina@gomez-flowers.com,SKU#18b77975210f1e67cdeedc23056261f5,Jennifer Dunn,19,IID#1282b0c44d8570bddb1f80963c2679d0,799-579-7777,2769.82
+11/27/2020,"996 Hector Cape Suite 854 Evelynborough, WA 69964",tiffany98@hotmail.com,SKU#4eefd60f439096ed98b6d8a585da12ef,Daniel Ramirez,19,IID#c68d95ed5410e1d06d407c77aa792681,484-781-8993,2417.56
+12/04/2020,"88515 Lori Square Suite 967 Karenland, MT 53094",munozamy@miller.biz,SKU#45108b72c040e03ccd2e22d15419eff3,Natalie King,12,IID#56b3edf2edc08c94eb366767ddd453e4,134-490-3978,736.6800000000001
+12/12/2020,"280 Daniel River Apt. 087 Trevorfurt, SD 65510",jeffrey95@banks.net,SKU#d493286dbbb40d11add825ca2181a83b,Brandy Buchanan,18,IID#0021536d8f0989910e14946664e01bea,619-548-3832,2308.86
+12/14/2020,"994 Smith Hill South Davidview, ID 61805",michael12@turner.com,SKU#21e2e8fe686ed0003b67d698b1273481,Marcus Thomas,15,IID#7d9223cf0b1c8f4c2b77252aa2397b9d,846-852-0256,2225.4
+12/14/2020,"0019 Brian Prairie Suite 672 Tranburgh, MS 81198",ctucker@bauer.info,SKU#0941260343df16d8d62682611c1220e7,David Holland,19,IID#4004664ba1d3d391ff7fa5990a304562,087-188-8678,1133.54
+12/16/2020,"19529 Marshall Green Port Melissa, SC 71521",brownkaren@hotmail.com,SKU#d0439fd37b50bf9818f12d47dc2dea78,Susan Mann,18,IID#f40077828d30e606ce8a2e723c6224fc,964-570-2397,1434.42
+12/18/2020,"5575 Diana Field Apt. 093 East Lisa, WV 97831",hgibbs@gmail.com,SKU#a6fdef745f091df850100797044448e6,Marcus Foster,19,IID#84b2c9c3894043db255e85225f7831af,237-421-5881,1326.96
+01/01/2021,"4035 Thompson Passage Port Alexis, KS 78260",evelynmahoney@hotmail.com,SKU#b93d9b41abd4ab965ea782b4be302a12,Ronnie Heath,7,IID#4b964eb883df0f22d3a1077ed97c8163,673-635-5193,833.6999999999999
+01/05/2021,"930 Morgan Glen Apt. 797 Nelsonville, IA 16811",christina48@gmail.com,SKU#4aa09c46db228e7f610ad440cd89c103,Christina Santos,18,IID#495bae804ba099d1d6d800c3d4dcbc04,970-026-4933,2358.72
+01/06/2021,"42574 Ball River New Donaldstad, VT 35867",matthew45@yahoo.com,SKU#63be8c1a5f7e53d837e3a4b347d8d811,Jimmy Garcia,20,IID#0dec90e87268b461a5b8070138a0bf20,924-268-3179,2997.6
+01/10/2021,"027 David Land Suite 245 Lake Peter, MO 68939",lisa01@taylor.com,SKU#aa663b8f24e39226e4a42cd4effb1b4d,Eric Bell,13,IID#6719bc87a037a5e9796f61254865243c,802-767-1028,1588.99
+01/11/2021,"47294 Petersen Station Apt. 151 Stevenberg, NV 52509",carlawalton@hotmail.com,SKU#49e885c1bd66fc43e856a00e59d71188,Ariel Archer,14,IID#a191a954d7325c6b9b0a080ce86a18af,277-877-7729,1633.6599999999999
+01/12/2021,"58364 Burke Islands Martinezberg, UT 47551",joshua32@campbell.com,SKU#aa6672fe9e8426f8dd570c81095e1476,Mr. Raymond Mitchell Jr.,18,IID#ab221a8a02589704202aecb0880de03a,059-274-0330,1936.08
+01/12/2021,"USNS Shields FPO AP 79312",williamsutton@yahoo.com,SKU#6cbbe3240a203b0ff387d9bbdadd49ef,Gabrielle Combs,10,IID#58d451d7355af7ce16be0f0e5c7068f8,291-196-5931,593.6999999999999
+01/14/2021,"4087 Hall Lights Apt. 128 New Kelly, VT 61834",robert24@gmail.com,SKU#04dbc66d8e4559769bb38a92cd6f7d9d,Crystal Stephenson,23,IID#836a1014d1367b8e73483ea2a5093a88,653-965-4467,2613.49
+01/16/2021,"56087 Brooks Village Lake Williamshire, OH 62851",bauerhayley@cordova.com,SKU#8c04a74d73587e9be5f4bdf1631f000c,Theresa Ritter,26,IID#e8104e42dc76dd87a8bd598bb3ca4d2e,296-952-6691,2108.6
+01/18/2021,"392 Michael Points New Thomas, SD 05814",stacey54@yahoo.com,SKU#a1534d6e98a6b21386456a8f66c55260,James Hill,21,IID#d3b807c3c20db84c3d1f3653ad0fa5f2,433-865-4395,2136.75
+01/21/2021,"806 Robinson Wells East Paul, IN 88449",mbaldwin@yahoo.com,SKU#e9d467e187231d4ba17391865b98b2e7,Megan Simpson,15,IID#53fa42173470fd14761adf01010714ec,238-013-3583,795.3000000000001
+01/25/2021,"88048 Edward Mission Apt. 910 Lake Paul, AL 08981",schultzpamela@rodriguez-taylor.com,SKU#785b8eb258d38760b4e81d7a1e2d5de5,Theresa Martinez,18,IID#76270eb405d12ef276e0782399cc85fd,983-233-9293,704.16
+01/29/2021,"304 Valdez Avenue Suite 265 Collinston, GA 25068",udavis@yahoo.com,SKU#315f429f54ac64409bbf4acee92474d5,Edward Davenport,15,IID#41d5733baccf1c1a0381dd1115915c65,432-683-1796,2393.1
+02/07/2021,"7984 Williams Creek West Ryanfort, WY 05193",ssharp@yahoo.com,SKU#9e1e5883c74742a497cf5c272ccd2321,Julie Smith,19,IID#d5bf1c562fc7ec6e444274fd9300a0d0,058-891-7690,2197.35
+02/09/2021,"043 Gibson Roads Laurieview, SC 17206",wallacejoseph@summers.com,SKU#3ece5b54f95dc81cd789dfd8490c000d,David Hardy,12,IID#ac6f4c173662d4319773b87ff0ab8fed,137-209-9067,1361.28
+02/11/2021,"1646 Judy Drive Apt. 417 Lake Aprilville, RI 79028",osmith@morgan-johnston.net,SKU#d37af2d76d58a29f7cadadabd2ad6f3c,Lance Marshall,10,IID#1febae15a949f6988b7f1d55667a40bc,274-347-4904,996.2
+02/12/2021,"4618 Stacey Mall Suite 283 Williamside, CA 91434",diazcorey@hotmail.com,SKU#c42dff9843dd12641d5ce4f2cbd71617,Richard Hernandez,11,IID#d1a6687401386c8fb778ccfacd2689fc,708-500-6597,501.04999999999995
+02/12/2021,"8743 Denise Passage Apt. 996 Barnetttown, TN 57607",halllauren@roberts-mitchell.com,SKU#a7e867cf39a53ef26a70614e2830b90c,Faith Gonzalez,24,IID#03b9b64f14d379de04a4073d7ef4ddee,508-876-6738,1603.1999999999998
+02/13/2021,"1175 Alexander Point Suite 582 Brownview, TX 92258",ochandler@bennett.com,SKU#1ae17d4009cce51ba79fbfebd9b8a513,Jamie Cervantes,18,IID#a676a6487170b1291c0c0acac4a06424,905-042-9824,1559.16
+02/16/2021,"77371 Brian Forges Suite 113 East Caitlinview, NM 38886",ochaney@lopez.biz,SKU#49a599e1d83dba28fc110fbde5e42340,Reginald Owens,13,IID#2b96f5026a0cced960bece2e6713d5b6,458-027-7981,2087.54
+02/16/2021,"98067 Griffith Estates Apt. 568 Gravesstad, MO 86330",scotthernandez@gmail.com,SKU#469aedf236c9f2c00b7ecef8f015852d,Nancy Hernandez,14,IID#49d254d91521a6d9173331fc9944a3b2,484-926-5632,852.6
+02/19/2021,"3814 Gonzalez Skyway Melissastad, UT 79848",michael92@wise-edwards.com,SKU#95d9ec52f8dbf368500b11faea223d28,Bryan Walker,21,IID#975a9e58fe1790d9673910be5566f0b3,973-986-8194,681.45
+02/21/2021,"724 Johnny Mission West Jeffreyburgh, WY 08526",sarahwagner@williams-nelson.com,SKU#b2d45371664bd3b4fc53b66ac0f34be1,Amy Smith,14,IID#a0690b5c28121ee649f00c16ad28741c,946-924-8435,1110.8999999999999
+02/25/2021,"8063 Ashley Street Port Kelsey, NV 45689",gilesjoshua@yahoo.com,SKU#f71bb39926a21a32162514e5867100f7,Chelsea Peterson,11,IID#b98737a881fedd13b889d55a56886566,418-059-6228,1325.72
+03/06/2021,"7637 Jeffrey Junction Apt. 357 Marcusborough, RI 12391",lrodriguez@gmail.com,SKU#f37e03f74576c53fda5164837a5fae01,Andrew Martinez,22,IID#c97160bd2fbc1a7a1b3f78e8c865dbbb,584-452-2309,2874.74
+03/13/2021,"11201 Sandra Spur Apt. 935 New Ann, WI 93978",yalexander@hotmail.com,SKU#53b7e0c722494b606239078e112cbc86,Maria Mason,16,IID#c1525028ffb9e05b65530ad972c2bc66,384-018-3829,775.2
+03/22/2021,"97374 Mcintosh Street Lake Jennifermouth, ND 71802",steven62@gmail.com,SKU#b8f9731d34c384285638adb599028f86,Mr. Joseph Sanchez,20,IID#eb7433a0ea0e53a5c22c8921856b2254,906-515-4852,1778.6000000000001
+03/27/2021,"205 Madison Square Laurabury, WV 66040",ubush@hotmail.com,SKU#189a804eaa46ce838e487ab062642981,Kimberly Davis,24,IID#59311633c0635ba552ae19d1ef9b01ab,000-471-8365,1390.08
+03/30/2021,"97785 Miller Pines Suite 040 North Dean, IA 42713",tammy31@yahoo.com,SKU#153a5896b15f08b9958895743d19f664,James Ashley,19,IID#fa16b4f15d7f6c53bbc8b55031ee4340,445-165-5124,1079.39
+04/04/2021,"8550 Frazier Manors Lake Lisa, MS 17754",eddiesmith@pena.org,SKU#527e3a39bc066f9dfcc85c57acc8d262,Kendra James,20,IID#673a17ecab730b094ed2eb8fa733d310,546-610-0863,2338.4
+04/05/2021,"7516 Carrie Fork Fosterport, MD 12943",montoyakelly@smith-wilson.com,SKU#315f429f54ac64409bbf4acee92474d5,Linda Kennedy,9,IID#92eb0402d4613cd76920b7499518cdfd,377-321-1665,1435.86
+04/06/2021,"806 Robinson Wells East Paul, IN 88449",mbaldwin@yahoo.com,SKU#74ca2c01b07af0dda4bb39ac330fc49c,Megan Simpson,10,IID#72104a0f990cc0b61d032cda7c00b407,238-013-3583,1453.6000000000001
+04/13/2021,"3133 Christine Mission Apt. 007 South Brandyshire, NY 27756",gomezdebra@bowen.biz,SKU#e2a482a3896964675811dba0bfde2f0b,Theresa Simpson,24,IID#5ec09d5ccb02053f44760559b590bbef,463-660-2279,3178.08
+04/14/2021,"7030 Darryl Gardens Smithland, MO 21489",knewman@yahoo.com,SKU#608d462d9f197b52d6d380827088c8a6,Katie Le,6,IID#96bf2e67ea1c2e388fdd9e4f1c4438c9,733-357-1641,475.14
+04/27/2021,"07386 Moore Run Perkinsmouth, NC 05121",esmith@yahoo.com,SKU#bf619eac0cdf3f68d496ea9344137e8b,Juan Hart,8,IID#405c7fab8c5ce073c87c5ee6615e84d9,572-968-2571,832.88
+04/28/2021,"USNS Fitzpatrick FPO AP 73798",david93@yahoo.com,SKU#0820cd00c0563f5673ad6198c7c29a1c,Johnny Smith,11,IID#1169d5fad67e0c99ee59c68fe03a7259,071-039-5905,952.1600000000001
+04/30/2021,"8187 Young Circles Travisfurt, MS 02861",morrisjames@morgan.net,SKU#9ce3b1ec053bb5a3b04ce82abafa835f,Adam Bailey,14,IID#9409374e85fe0a34d858fcbd02f2d804,859-707-8239,1927.6599999999999
+05/05/2021,"58364 Burke Islands Martinezberg, UT 47551",joshua32@campbell.com,SKU#ea8105655312bbb00cd82756c73a5a63,Mr. Raymond Mitchell Jr.,21,IID#bf3023003db01f4948f94b88f89d7702,059-274-0330,833.91
+05/06/2021,"84763 Rachel Mission Apt. 281 Jessicachester, VT 44256",jjones@smith-jackson.net,SKU#13cacb82b004ab4cea9089f6d4c8c1f8,Victoria Taylor,12,IID#8456380bb9d705f638f8a1bb78a6de67,731-568-1259,1839.96
+05/09/2021,"07534 Christopher Roads Amandaview, MS 07047",gabrielle16@hotmail.com,SKU#2a5af264f823064d58259632271cd180,Amy Morgan,14,IID#61436252a401141bfc6b15160ff76e35,467-719-1083,924.1400000000001
+05/10/2021,"7301 William Ferry Suite 609 Stevenport, MA 24231",sierra43@ramos.net,SKU#189a804eaa46ce838e487ab062642981,Chad Frey,14,IID#4c54f007187b7f5a577ada8e5bb539d0,084-220-1625,810.88
+05/11/2021,"PSC 1552, Box 1847 APO AP 10748",phillip07@hotmail.com,SKU#5360ef677082dfe564ef95512b89995a,Danielle Hayes,19,IID#49208b2c40eda022131299c5cbd7e9b2,565-680-4682,1127.65
+05/11/2021,"2353 Harris Roads Suite 196 Lake Derrickview, CO 74571",franklinkyle@gmail.com,SKU#2b62a30906a2b8bf3b68abd2ef9d105b,Jennifer Johnson,16,IID#891b9b5992ad71528be43e8b09646c28,078-134-4027,840.16
+05/15/2021,"8063 Ashley Street Port Kelsey, NV 45689",gilesjoshua@yahoo.com,SKU#73317996ab3c253c043aecb299357229,Chelsea Peterson,22,IID#3247ecf7358b6e32a2e2145a04a65d63,418-059-6228,2021.36
+05/18/2021,"018 Sanchez Squares Vincentbury, FL 92487",adrianabarrera@yahoo.com,SKU#7c8bf78f7ae1d6d9b0a43d1620a126b1,Dawn Young,11,IID#18aeea11bbf3601d840e45a533412059,629-515-0583,1190.8600000000001
+05/18/2021,"16801 Seth Hills Suite 083 East Michael, VT 73873",kathleentucker@landry.com,SKU#8a77e487095b9fc40c2ed1dfbb422892,Erica Munoz,17,IID#7e9ea469849d72c217556bbeaaedeb6e,566-867-7640,1028.8400000000001
+06/03/2021,"994 Medina Pine Suite 106 Lake Christineview, TN 35417",rnolan@johnson.com,SKU#81684c2e68ade2cd4bf9f2e8a67dd4fe,Michael Snyder,8,IID#a837386bb5de09e49f7087995b0214ca,970-054-4130,642.0
+06/08/2021,"693 Davis Pines Suite 390 West Audrey, MO 39032",pughkatherine@duran.com,SKU#d1843877be2b76d1ebc5572daafa3fdc,Todd Mason Jr.,15,IID#cd72c30df72ffa60f99ccaad2022242a,111-650-7070,1217.1
+06/13/2021,"36713 Stone Islands Port Marc, MD 70013",sarah01@gmail.com,SKU#77f11a9207cdc620a93a176108baf73d,James Salazar,22,IID#99930c66c2c7dee10dc9c02f0f7d39d7,886-760-7099,1083.94
+06/14/2021,"483 Sullivan Summit Myersburgh, WI 46578",derrick21@holmes.info,SKU#153a5896b15f08b9958895743d19f664,Albert Palmer,20,IID#e2fa1aa9c976f6705a9e7fd43fbeb93c,391-154-1653,1136.2
+06/19/2021,"80270 Weeks Crescent South Jason, NY 58801",dennisgarcia@wagner.com,SKU#80be6efdf5a776659777bf07d4aff891,Christopher Hodge,11,IID#756e60c9fe393ca372c8ada4c0d6f31a,871-062-5298,568.37
